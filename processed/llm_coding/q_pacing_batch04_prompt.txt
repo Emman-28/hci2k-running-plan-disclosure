@@ -1,0 +1,50 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "Did what you knew about upcoming sessions affect how hard you pushed?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"pacing": choose EXACTLY ONE of:
+  - HELD_BACK: Held back or saved energy
+  - PUSHED: Pushed harder than usual
+  - UNSURE: Unsure / went by feel
+  - NO_EFFECT: No effect on effort
+  - UNCODED: none of the above fit
+"themes": choose ZERO OR MORE of:
+  - KNEW_UPCOMING: Mentions a specific upcoming session or the end of the plan that the runner knew about
+  - UNCERTAIN_UPCOMING: Mentions not knowing what comes next
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "pacing": "<CODE>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0408: "Not really"
+T0412: "hard to say. I don't know what's next so I went by feel"
+T0416: "not really. I only think about the session in front of me"
+T0420: "not really. I only think about the session in front of me"
+T0423: "No."
+T0426: "no, I just focused on today since that's all I could see"
+T0429: "A little. I kept something in the tank because the interval run is coming up."
+T0433: "Yes, the next one is only an easy run so I felt fine pushing today."
+T0436: "Yes, I saw the tempo run was next so I held back a bit today."
+T0439: "Somewhat. Knowing the long run is next made me careful with my pace."
+T0443: "Somewhat. Knowing the interval run is next made me careful with my pace."
+T0446: "Yes, the next one is only an easy run so I felt fine pushing today."
+T0449: "Somewhat. Knowing the tempo run is next made me careful with my pace."
+T0454: "Somewhat. Knowing the long run is next made me careful with my pace."
+T0459: "Yes, I knew an easier day was next so I didn't hold much back."
+T0463: "Yes, I saw the interval run was next so I held back a bit today."
+T0467: "A bit. I could recover on the easy run next, so I worked harder."
+T0470: "Somewhat. Knowing the tempo run is next made me careful with my pace."
+T0474: "Yes, I eased off near the end to save my legs for the long run."
+T0477: "Yes, it was the last session on the plan so I gave it everything."
+T0480: "No, just ran it"
+T0483: "Not really"
+T0486: "A bit. Not knowing the next session made me hold back on the last part."
+T0489: "No"
+T0493: "Not really. I only think about the session in front of me."
+T0496: "Not today"
+T0499: "Not really"
+T0502: "No, just ran it"
+T0506: "No, just ran it"
+T0510: "No."
+T0513: "Not really"
+T0517: "Slightly, I didn't want to wreck my legs in case the next one is hard."

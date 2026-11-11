@@ -1,0 +1,38 @@
+theme,condition,who,quote
+KNEW_UPCOMING,Full Plan,R02 · W1 S2,"Yes, the next one is only an easy run so I felt fine pushing today."
+KNEW_UPCOMING,Full Plan,R05 · W1 S2,"A bit. I could recover on the easy run next, so I worked harder."
+KNEW_UPCOMING,Current Only,R08 · W1 S2,"slightly, I didn't want to wreck my legs in case the next one is hard"
+KNEW_UPCOMING,Current Only,R12 · W3 S4,"Slightly, I didn't want to wreck my legs in case the next one is hard."
+UNCERTAIN_UPCOMING,Current Only,R04 · W1 S1,A bit. Not knowing the next session made me hold back on the last part.
+UNCERTAIN_UPCOMING,Current Only,R06 · W1 S2,Hard to say. I don't know what's next so I went by feel.
+SESSION_STRUCTURE,Full Plan,R02 · W1 S2,Had to reread the session to get the intervals right.
+SESSION_STRUCTURE,Full Plan,R05 · W1 S2,Fast pace targets and counting reps.
+SESSION_STRUCTURE,Current Only,R04 · W1 S2,"Number of reps, rest times, and my watch timer."
+SESSION_STRUCTURE,Current Only,R06 · W1 S2,Had to reread the session to get the intervals right.
+MONITORING,Full Plan,R02 · W1 S3,Keeping my pace easy and not going too fast.
+MONITORING,Full Plan,R05 · W1 S2,Fast pace targets and counting reps.
+MONITORING,Current Only,R04 · W1 S1,Just the time on my watch. Had to find the message with today's session first.
+MONITORING,Current Only,R06 · W1 S4,Holding the target pace for the middle part.
+LOGISTICS,Full Plan,R02 · W1 S5,Planned a loop with a water stop. Looked ahead at the plan to sort out my schedule.
+LOGISTICS,Full Plan,R05 · W2 S1,Which route to take and how long to be out. Also checked how today fits with the rest of the week.
+LOGISTICS,Current Only,R10 · W2 S3,which route to take and how long to be out. Checked the Messenger message again to confirm the details
+LOGISTICS,Current Only,R12 · W1 S5,Planned a loop with a water stop.
+PLAN_ACCESS,Full Plan,R02 · W1 S2,Had to reread the session to get the intervals right.
+PLAN_ACCESS,Current Only,R04 · W1 S1,Just the time on my watch. Had to find the message with today's session first.
+PLAN_ACCESS,Current Only,R06 · W1 S1,"Nothing much, just laced up and went. Had to find the message with today's session first."
+LOOK_AHEAD,Full Plan,R02 · W1 S5,Planned a loop with a water stop. Looked ahead at the plan to sort out my schedule.
+LOOK_AHEAD,Full Plan,R05 · W1 S3,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.
+MINIMAL,Full Plan,R02 · W2 S3,"Nothing much, just laced up and went."
+MINIMAL,Full Plan,R05 · W1 S1,"Nothing much, just laced up and went."
+MINIMAL,Current Only,R04 · W2 S1,"Nothing much, just laced up and went. Checked the Messenger message again to confirm the details."
+MINIMAL,Current Only,R12 · W1 S1,"Nothing much, just laced up and went."
+PROGRESS,Full Plan,R02 · W2 S3,"Easier, I could tick off another one on the plan."
+PROGRESS,Full Plan,R05 · W2 S1,"Easier, I could tick off another one on the plan."
+FORWARD_RUMINATION,Full Plan,R09 · W2 S1,A bit harder. I kept going over the rest of this week's sessions in my head.
+FORWARD_RUMINATION,Full Plan,R11 · W1 S1,Harder. I kept thinking about the interval run coming up.
+UNCERTAINTY,Current Only,R04 · W1 S3,"Harder, I didn't know if today was the toughest day of the week or not."
+UNCERTAINTY,Current Only,R06 · W2 S3,"Harder, I didn't know if today was the toughest day of the week or not."
+PRESENT_FOCUS,Current Only,R04 · W1 S4,"Easier, not knowing what's next meant I wasn't worrying about it."
+PRESENT_FOCUS,Current Only,R06 · W1 S2,"Easier, I only had to think about today."
+SURPRISE,Current Only,R10 · W2 S4,harder. I wasn't expecting this tempo run today so I hadn't really prepared
+SURPRISE,Current Only,R12 · W2 S5,"Slightly harder, the long run felt tougher than what I had guessed was coming."

@@ -1,0 +1,58 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "Did what you knew about upcoming sessions affect how hard you pushed?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"pacing": choose EXACTLY ONE of:
+  - HELD_BACK: Held back or saved energy
+  - PUSHED: Pushed harder than usual
+  - UNSURE: Unsure / went by feel
+  - NO_EFFECT: No effect on effort
+  - UNCODED: none of the above fit
+"themes": choose ZERO OR MORE of:
+  - KNEW_UPCOMING: Mentions a specific upcoming session or the end of the plan that the runner knew about
+  - UNCERTAIN_UPCOMING: Mentions not knowing what comes next
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "pacing": "<CODE>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0276: "Not really"
+T0279: "a bit. I could recover on the easy run next, so I worked harder"
+T0282: "No."
+T0286: "a little. I kept something in the tank because the tempo run is coming up"
+T0289: "No."
+T0292: "yes, it was the last session on the plan so I gave it everything"
+T0295: "No"
+T0298: "slightly, I didn't want to wreck my legs in case the next one is hard"
+T0301: "No."
+T0304: "No."
+T0307: "no, just ran it"
+T0311: "no, just ran it"
+T0314: "Not today"
+T0317: "No"
+T0321: "no, just ran it"
+T0324: "Not really"
+T0328: "no, just ran it"
+T0331: "no, I just focused on today since that's all I could see"
+T0334: "no, just ran it"
+T0337: "yes, I didn't know what was coming next so I kept some energy in reserve"
+T0340: "No"
+T0343: "No."
+T0346: "Yes, I knew an easier day was next so I didn't hold much back."
+T0349: "Yes, I saw the interval run was next so I held back a bit today."
+T0352: "A bit. I could recover on the easy run next, so I worked harder."
+T0355: "Yes, I saw the tempo run was next so I held back a bit today."
+T0359: "Yes, I saw the long run was next so I held back a bit today."
+T0363: "Yes, I knew an easier day was next so I didn't hold much back."
+T0367: "No"
+T0371: "No."
+T0375: "No"
+T0378: "yes, I pushed more since I figured I should use what I have today"
+T0381: "no, just ran it"
+T0384: "slightly, I didn't want to wreck my legs in case the next one is hard"
+T0387: "not really. I only think about the session in front of me"
+T0391: "no, just ran it"
+T0394: "no, just ran it"
+T0398: "hard to say. I don't know what's next so I went by feel"
+T0401: "slightly, I didn't want to wreck my legs in case the next one is hard"
+T0404: "yes, I didn't know what was coming next so I kept some energy in reserve"

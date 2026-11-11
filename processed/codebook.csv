@@ -1,0 +1,22 @@
+question,type,code,definition,rule pattern
+q_pacing,one per answer,HELD_BACK,Held back or saved energy,held back|hold back|in reserve|in the tank|eased off|careful with my pace|save my legs|wreck my legs|kept something|conserv
+q_pacing,one per answer,PUSHED,Pushed harder than usual,pushed|pushing|worked harder|didn't hold much back|gave it everything|no reason to save|use what i have|went all out
+q_pacing,one per answer,UNSURE,Unsure / went by feel,hard to say|went by feel|not sure
+q_pacing,one per answer,NO_EFFECT,No effect on effort,"^(no|not really|not today|nope|no,? just ran it)\b|just focused on today|only think about the session|didn't affect"
+q_pacing,zero or more,KNEW_UPCOMING,Mentions a specific upcoming session or the end of the plan that the runner knew about,\bi saw\b|(?<!not )knowing the\b|\bi knew\b|next one is|recover on the easy run next|easier day was next|last session|nothing left after|is coming up|was next
+q_pacing,zero or more,UNCERTAIN_UPCOMING,Mentions not knowing what comes next,didn't know what|don't know what|not knowing|in case the next|no idea what
+q_tracking,zero or more,SESSION_STRUCTURE,"Keeping track of the workout's structure (reps, recoveries, warm-up, blocks)",reps|interval|rest times|recover|warm-up|warm up|tempo block|cooldown|cool-down|counting
+q_tracking,zero or more,MONITORING,"Monitoring pace, time, or distance while running",pace|too fast|time on my watch|watch timer|total distance
+q_tracking,zero or more,LOGISTICS,"Practical preparation (route, water, food)",route|water|eat|loop
+q_tracking,zero or more,PLAN_ACCESS,"Finding, re-reading, or checking the session instructions",find the message|checked the messenger|message again|reread|re-read|look up the session
+q_tracking,zero or more,LOOK_AHEAD,Looking at the rest of the plan or week,looked ahead|rest of the week|how today fits|sort out my schedule|whole plan
+q_tracking,zero or more,MINIMAL,Little or nothing to keep track of,nothing much|just laced|nothing really
+q_plan_mind,one per answer,MIXED,Both easier and harder,(easier.*harder|harder.*easier)
+q_plan_mind,one per answer,EASIER,Plan thoughts made the run easier,easier
+q_plan_mind,one per answer,HARDER,Plan thoughts made the run harder,harder|tougher
+q_plan_mind,one per answer,NONE,No effect,^(no|nothing|not really|neither|nothing in particular|nope)\b
+q_plan_mind,zero or more,PROGRESS,Seeing progress or the end of the plan or week,tick off|count down|countdown|end is in sight|sessions left|sessions are left|end of the week coming|where today fit
+q_plan_mind,zero or more,FORWARD_RUMINATION,Thinking repeatedly about upcoming sessions,kept thinking about|on my mind|going over the rest|whole week felt like a lot
+q_plan_mind,zero or more,UNCERTAINTY,Not knowing how hard or long things will get,didn't know if|no sense of how much|wondering how long|how long the sessions
+q_plan_mind,zero or more,PRESENT_FOCUS,Relief from only having to think about today,only had to think about today|less to think about|wasn't worrying|just open the message
+q_plan_mind,zero or more,SURPRISE,A session was harder or different than expected,wasn't expecting|than what i had guessed|caught me off guard

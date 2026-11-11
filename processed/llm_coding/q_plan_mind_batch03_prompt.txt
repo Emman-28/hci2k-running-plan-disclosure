@@ -1,0 +1,61 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "Did anything on your mind about the plan make the run easier or harder?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"valence": choose EXACTLY ONE of:
+  - MIXED: Both easier and harder
+  - EASIER: Plan thoughts made the run easier
+  - HARDER: Plan thoughts made the run harder
+  - NONE: No effect
+  - UNCODED: none of the above fit
+"themes": choose ZERO OR MORE of:
+  - PROGRESS: Seeing progress or the end of the plan or week
+  - FORWARD_RUMINATION: Thinking repeatedly about upcoming sessions
+  - UNCERTAINTY: Not knowing how hard or long things will get
+  - PRESENT_FOCUS: Relief from only having to think about today
+  - SURPRISE: A session was harder or different than expected
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "valence": "<CODE>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0277: "Nothing"
+T0280: "Not really"
+T0283: "Neither"
+T0287: "Nothing"
+T0290: "a little harder, the long run was on my mind for most of the run"
+T0293: "Neither"
+T0296: "No"
+T0299: "Nothing"
+T0302: "harder, I didn't know if today was the toughest day of the week or not"
+T0305: "Neither"
+T0308: "easier, less to think about. I just open the message and go"
+T0312: "nothing in particular"
+T0315: "harder. I wasn't expecting this interval run today so I hadn't really prepared"
+T0318: "easier, not knowing what's next meant I wasn't worrying about it"
+T0322: "Not really"
+T0325: "easier, I only had to think about today"
+T0329: "Nothing"
+T0332: "harder. I wasn't expecting this interval run today so I hadn't really prepared"
+T0335: "easier, not knowing what's next meant I wasn't worrying about it"
+T0338: "easier, less to think about. I just open the message and go"
+T0341: "Easier, it helped to see the end of the week coming."
+T0344: "Easier, it helped to see the end of the week coming."
+T0347: "Not really"
+T0350: "A bit harder. I kept going over the rest of this week's sessions in my head."
+T0353: "Not really"
+T0356: "Easier, it helped to see the end of the week coming."
+T0360: "A bit harder. I kept going over the rest of this week's sessions in my head."
+T0364: "Nothing"
+T0368: "Easier. Seeing how many sessions are left made it feel doable."
+T0372: "A bit harder. I kept going over the rest of this week's sessions in my head."
+T0376: "No"
+T0379: "a bit harder near the end, no sense of how much is left in the plan"
+T0382: "nothing in particular"
+T0385: "a bit harder near the end, no sense of how much is left in the plan"
+T0388: "easier, not knowing what's next meant I wasn't worrying about it"
+T0392: "Neither"
+T0395: "a bit harder near the end, no sense of how much is left in the plan"
+T0399: "Not really"
+T0402: "harder. I kept wondering how long the sessions would get"
+T0405: "harder. I wasn't expecting this tempo run today so I hadn't really prepared"

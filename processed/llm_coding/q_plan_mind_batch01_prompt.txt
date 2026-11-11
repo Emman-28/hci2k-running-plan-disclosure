@@ -1,0 +1,61 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "Did anything on your mind about the plan make the run easier or harder?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"valence": choose EXACTLY ONE of:
+  - MIXED: Both easier and harder
+  - EASIER: Plan thoughts made the run easier
+  - HARDER: Plan thoughts made the run harder
+  - NONE: No effect
+  - UNCODED: none of the above fit
+"themes": choose ZERO OR MORE of:
+  - PROGRESS: Seeing progress or the end of the plan or week
+  - FORWARD_RUMINATION: Thinking repeatedly about upcoming sessions
+  - UNCERTAINTY: Not knowing how hard or long things will get
+  - PRESENT_FOCUS: Relief from only having to think about today
+  - SURPRISE: A session was harder or different than expected
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "valence": "<CODE>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0002: "Nothing"
+T0007: "No"
+T0010: "No"
+T0014: "Easier, it helped to see the end of the week coming."
+T0017: "Not really"
+T0021: "Harder. I kept thinking about the long run coming up."
+T0024: "Nothing in particular"
+T0028: "A little harder, the interval run was on my mind for most of the run."
+T0032: "Neither"
+T0035: "Neither"
+T0038: "Not really"
+T0042: "No"
+T0045: "Nothing"
+T0048: "Neither"
+T0051: "Not really"
+T0055: "No"
+T0058: "Easier, I could tick off another one on the plan."
+T0061: "Nothing"
+T0065: "Not really"
+T0069: "Easier. Being able to count down the final week really helped."
+T0072: "Nothing"
+T0077: "Nothing"
+T0081: "Easier. Being able to count down the final week really helped."
+T0084: "Neither"
+T0087: "Nothing in particular"
+T0090: "Nothing"
+T0093: "A bit harder near the end, no sense of how much is left in the plan."
+T0096: "A bit harder near the end, no sense of how much is left in the plan."
+T0100: "Easier, I only had to think about today."
+T0103: "No"
+T0106: "Nothing in particular"
+T0109: "Not really"
+T0113: "Slightly harder, the interval run felt tougher than what I had guessed was coming."
+T0116: "Harder, I didn't know if today was the toughest day of the week or not."
+T0119: "Easier, not knowing what's next meant I wasn't worrying about it."
+T0122: "Easier, I only had to think about today."
+T0126: "Easier, less to think about. I just open the message and go."
+T0129: "Harder, I didn't know if today was the toughest day of the week or not."
+T0133: "A bit harder near the end, no sense of how much is left in the plan."
+T0136: "Neither"

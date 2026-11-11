@@ -1,0 +1,17 @@
+step,participant,week,session,issue,action,detail
+C9 timing,R12,1,1,submitted more than 2 h after finishing,flagged (kept),6.0 h
+C9 timing,R09,1,2,submitted more than 2 h after finishing,flagged (kept),3.7 h
+C9 timing,R11,1,3,submitted more than 2 h after finishing,flagged (kept),4.9 h
+C9 timing,R05,1,3,submitted more than 2 h after finishing,flagged (kept),4.2 h
+C9 timing,R01,1,4,submitted more than 2 h after finishing,flagged (kept),2.6 h
+C9 timing,R08,2,3,submitted more than 2 h after finishing,flagged (kept),5.8 h
+C9 timing,R10,3,1,submitted more than 2 h after finishing,flagged (kept),5.0 h
+C9 timing,R11,3,4,submitted more than 2 h after finishing,flagged (kept),3.5 h
+C10 duplicates,R04,2,3,duplicate submission (2 entries),kept the last entry,tlx_physical: 3.0 -> 4.0
+C11 grid,R03,2,4,participant stopped submitting (withdrawal),remaining sessions marked withdrawn,last session index 8; 7 sessions not expected
+C11 grid,R01,1,5,scheduled session with no form submitted,added as 'missing',
+C11 grid,R01,3,5,scheduled session with no form submitted,added as 'missing',
+C11 grid,R02,3,3,scheduled session with no form submitted,added as 'missing',
+C11 grid,R07,3,1,scheduled session with no form submitted,added as 'missing',
+C11 grid,R09,1,3,scheduled session with no form submitted,added as 'missing',
+C11 grid,R09,3,1,scheduled session with no form submitted,added as 'missing',

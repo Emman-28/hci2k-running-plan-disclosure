@@ -1,0 +1,39 @@
+field,type,description,% blank,example
+participant_code,str,Participant ID (R01-R12); no names or emails are kept,0.0,R01
+condition,category,Full Plan or Current Only (from the participant key),0.0,Full Plan
+experience_group,category,Novice (<1 year running) or Experienced (>=1 year); stratification variable,0.0,Novice
+week,Int64,Week of the plan (1..N_WEEKS),0.0,1
+session,Int64,Session number within the week (1-5),0.0,1
+session_index,Int64,Position in the whole plan (1..N_WEEKS*5),0.0,1
+session_type,category,"Planned session type (from the plan, not the participant's answer)",0.0,Easy run
+next_session_type,str,Type of the following session (blank after the final session),6.7,Interval run
+next_category,category,harder session next / easy run next / final session (for anticipatory pacing),0.0,harder session next
+session_date,datetime64[us],Date the participant ran (or skipped),7.2,2026-11-09 00:00:00
+day_of_week,str,Weekday of session_date,7.2,Monday
+finish_dt,datetime64[us],Date and time the run finished,15.6,2026-11-09 07:25:00
+submitted_at,datetime64[us],Google Forms timestamp,7.2,2026-11-09 08:03:03
+submit_lag_h,float64,Hours from finishing to submitting (completed sessions only),15.6,0.6341666666666667
+status,category,prescribed / modified / skipped / missing (no form) / withdrawn (after withdrawal),0.0,prescribed
+submitted,bool,A form was received for this session,0.0,True
+completed,bool,Ran as prescribed or modified,0.0,True
+skip_reason,category,Reason given for skipping (form options or Other),91.7,Illness
+rpe,float64,"Borg RPE, 6-20",15.6,12.0
+mental,float64,"NASA-TLX mental demand, 0-100 (same as tlx_mental_100)",15.6,30.0
+tlx_mental_100,Float64,Mental demand 0-100,15.6,30.0
+tlx_physical_100,Float64,Physical demand 0-100,15.6,60.0
+tlx_temporal_100,Float64,Temporal demand 0-100,15.6,40.0
+tlx_performance_100,Float64,"Performance 0-100 (0 = perfect, 100 = failure)",15.6,10.0
+tlx_effort_100,Float64,Effort 0-100,15.6,50.0
+tlx_frustration_100,Float64,Frustration 0-100,15.6,20.0
+tlx_raw,float64,"Raw TLX: mean of the six subscales, 0-100 (blank if any subscale is missing)",15.6,35.0
+rpe_adj,float64,RPE minus the runner's usual level and the session type's usual level (OLS residual),15.6,0.6256061620660045
+mental_adj,float64,Mental demand adjusted the same way as rpe_adj,15.6,3.418487723822981
+flag_late,bool,Submitted more than 2 h after finishing,0.0,False
+flag_very_late,bool,Submitted more than 24 h after finishing,0.0,False
+flag_negative_lag,bool,Reported finish time is after the submission time,0.0,False
+flag_incomplete,bool,Completed session with at least one missing rating,0.0,False
+flag_date_problem,bool,"Session date outside the study, in the wrong week, or after submission",0.0,False
+flag_duplicate_resolved,bool,This row is the one kept from a duplicate submission,0.0,False
+flag_straightline,bool,Same value on all six TLX scales,0.0,False
+flag_rpe_mismatch,bool,RPE contradicts physical demand,0.0,False
+any_quality_flag,bool,Any of the data-quality flags above (excluding duplicate_resolved),0.0,False

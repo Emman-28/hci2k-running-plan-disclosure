@@ -1,0 +1,56 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "What did you have to think about or keep track of?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"themes": choose ZERO OR MORE of:
+  - SESSION_STRUCTURE: Keeping track of the workout's structure (reps, recoveries, warm-up, blocks)
+  - MONITORING: Monitoring pace, time, or distance while running
+  - LOGISTICS: Practical preparation (route, water, food)
+  - PLAN_ACCESS: Finding, re-reading, or checking the session instructions
+  - LOOK_AHEAD: Looking at the rest of the plan or week
+  - MINIMAL: Little or nothing to keep track of
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0141: "Route, water, and what to eat before. Had to find the message with today's session first."
+T0144: "Keeping my pace easy and not going too fast. Had to find the message with today's session first."
+T0147: "Warm-up length, then reps and recoveries."
+T0151: "Keeping my pace easy and not going too fast. Had to find the message with today's session first."
+T0154: "Holding the target pace for the middle part. Had to find the message with today's session first."
+T0157: "Route, water, and what to eat before. Had to find the message with today's session first."
+T0160: "Nothing much, just laced up and went."
+T0163: "Fast pace targets and counting reps."
+T0167: "Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week."
+T0171: "Checking my pace every few minutes."
+T0174: "Total distance and not starting too fast."
+T0177: "Which route to take and how long to be out. Also checked how today fits with the rest of the week."
+T0180: "Fast pace targets and counting reps. Looked ahead at the plan to sort out my schedule."
+T0183: "Just the time on my watch."
+T0186: "Checking my pace every few minutes. Also checked how today fits with the rest of the week."
+T0189: "Planned a loop with a water stop."
+T0192: "Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week."
+T0195: "Fast pace targets and counting reps. Also checked how today fits with the rest of the week."
+T0198: "Which route to take and how long to be out. Looked ahead at the plan to sort out my schedule."
+T0201: "Warm-up, tempo block length, and cooldown. Also checked how today fits with the rest of the week."
+T0204: "Total distance and not starting too fast. Also checked how today fits with the rest of the week."
+T0208: "Nothing much, just laced up and went. Had to find the message with today's session first."
+T0212: "Had to reread the session to get the intervals right."
+T0217: "Holding the target pace for the middle part."
+T0220: "Route, water, and what to eat before. Had to find the message with today's session first."
+T0223: "Keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details."
+T0226: "Had to reread the session to get the intervals right. Had to find the message with today's session first."
+T0229: "Nothing much, just laced up and went. Had to find the message with today's session first."
+T0233: "Holding the target pace for the middle part. Checked the Messenger message again to confirm the details."
+T0237: "Planned a loop with a water stop."
+T0240: "Keeping my pace easy and not going too fast. Had to find the message with today's session first."
+T0244: "Number of reps, rest times, and my watch timer. Had to find the message with today's session first."
+T0249: "Nothing much, just laced up and went."
+T0254: "Warm-up, tempo block length, and cooldown."
+T0257: "fast pace targets and counting reps"
+T0260: "which route to take and how long to be out"
+T0264: "checking my pace every few minutes"
+T0267: "nothing much, just laced up and went"
+T0271: "warm-up length, then reps and recoveries"
+T0274: "keeping my pace easy and not going too fast"

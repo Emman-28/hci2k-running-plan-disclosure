@@ -1,0 +1,48 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "What did you have to think about or keep track of?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"themes": choose ZERO OR MORE of:
+  - SESSION_STRUCTURE: Keeping track of the workout's structure (reps, recoveries, warm-up, blocks)
+  - MONITORING: Monitoring pace, time, or distance while running
+  - LOGISTICS: Practical preparation (route, water, food)
+  - PLAN_ACCESS: Finding, re-reading, or checking the session instructions
+  - LOOK_AHEAD: Looking at the rest of the plan or week
+  - MINIMAL: Little or nothing to keep track of
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0410: "route, water, and what to eat before. Had to find the message with today's session first"
+T0414: "which route to take and how long to be out"
+T0418: "fast pace targets and counting reps"
+T0422: "keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details"
+T0425: "warm-up, tempo block length, and cooldown"
+T0428: "total distance and not starting too fast"
+T0431: "Keeping my pace easy and not going too fast."
+T0435: "Number of reps, rest times, and my watch timer. Looked ahead at the plan to sort out my schedule."
+T0438: "Just the time on my watch. Also checked how today fits with the rest of the week."
+T0441: "Checking my pace every few minutes."
+T0445: "Just the time on my watch. Also checked how today fits with the rest of the week."
+T0448: "Warm-up length, then reps and recoveries. Looked ahead at the plan to sort out my schedule."
+T0451: "Which route to take and how long to be out. Looked ahead at the plan to sort out my schedule."
+T0456: "Checking my pace every few minutes. Looked ahead at the plan to sort out my schedule."
+T0461: "Route, water, and what to eat before. Also checked how today fits with the rest of the week."
+T0465: "Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule."
+T0469: "Fast pace targets and counting reps. Also checked how today fits with the rest of the week."
+T0472: "Keeping my pace easy and not going too fast."
+T0476: "Holding the target pace for the middle part."
+T0479: "Total distance and not starting too fast. Also checked how today fits with the rest of the week."
+T0482: "Nothing much, just laced up and went."
+T0485: "Warm-up length, then reps and recoveries."
+T0488: "Warm-up, tempo block length, and cooldown."
+T0491: "Planned a loop with a water stop."
+T0495: "Which route to take and how long to be out."
+T0498: "Nothing much, just laced up and went. Had to find the message with today's session first."
+T0501: "Checking my pace every few minutes. Had to find the message with today's session first."
+T0504: "Planned a loop with a water stop. Checked the Messenger message again to confirm the details."
+T0508: "Keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details."
+T0512: "Warm-up length, then reps and recoveries."
+T0515: "Nothing much, just laced up and went. Checked the Messenger message again to confirm the details."
+T0519: "Warm-up, tempo block length, and cooldown."

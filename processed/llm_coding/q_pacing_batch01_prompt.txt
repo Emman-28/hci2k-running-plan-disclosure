@@ -1,0 +1,58 @@
+You are a qualitative coder for a study about runners following a training plan.
+Each answer below responds to the diary question: "Did what you knew about upcoming sessions affect how hard you pushed?"
+Apply ONLY the codes defined here. Code what the text says, not what you guess the runner meant.
+
+"pacing": choose EXACTLY ONE of:
+  - HELD_BACK: Held back or saved energy
+  - PUSHED: Pushed harder than usual
+  - UNSURE: Unsure / went by feel
+  - NO_EFFECT: No effect on effort
+  - UNCODED: none of the above fit
+"themes": choose ZERO OR MORE of:
+  - KNEW_UPCOMING: Mentions a specific upcoming session or the end of the plan that the runner knew about
+  - UNCERTAIN_UPCOMING: Mentions not knowing what comes next
+
+Reply with ONLY a JSON array, one object per answer, in this exact form:
+[{"id": "<id>", "pacing": "<CODE>", "themes": ["<CODE>", ...], "evidence": "<short quote that justifies the codes>"}]
+
+ANSWERS:
+T0001: "Somewhat. Knowing the interval run is next made me careful with my pace."
+T0006: "Yes, the next one is only an easy run so I felt fine pushing today."
+T0009: "Yes, I saw the long run was next so I held back a bit today."
+T0013: "Somewhat. Knowing the interval run is next made me careful with my pace."
+T0016: "A little. I kept something in the tank because the tempo run is coming up."
+T0020: "Somewhat. Knowing the long run is next made me careful with my pace."
+T0023: "Yes, the next one is only an easy run so I felt fine pushing today."
+T0027: "Somewhat. Knowing the interval run is next made me careful with my pace."
+T0031: "Yes, I knew an easier day was next so I didn't hold much back."
+T0034: "No."
+T0037: "Somewhat. Knowing the long run is next made me careful with my pace."
+T0041: "Yes, the next one is only an easy run so I felt fine pushing today."
+T0044: "No"
+T0047: "A bit. I could recover on the easy run next, so I worked harder."
+T0050: "Not today"
+T0054: "A bit. I could recover on the easy run next, so I worked harder."
+T0057: "No."
+T0060: "No"
+T0064: "No."
+T0068: "A little. I kept something in the tank because the interval run is coming up."
+T0071: "A bit. I could recover on the easy run next, so I worked harder."
+T0076: "Yes, I saw the long run was next so I held back a bit today."
+T0080: "Yes. Nothing left after this one, so no reason to save energy."
+T0083: "Yes, I didn't know what was coming next so I kept some energy in reserve."
+T0086: "No"
+T0089: "Hard to say. I don't know what's next so I went by feel."
+T0092: "No, just ran it"
+T0095: "No, just ran it"
+T0099: "Not really"
+T0102: "Yes, I pushed more since I figured I should use what I have today."
+T0105: "Not really"
+T0108: "A bit. Not knowing the next session made me hold back on the last part."
+T0112: "Not really. I only think about the session in front of me."
+T0115: "A bit. Not knowing the next session made me hold back on the last part."
+T0118: "A bit. Not knowing the next session made me hold back on the last part."
+T0121: "Yes, I didn't know what was coming next so I kept some energy in reserve."
+T0125: "No, I just focused on today since that's all I could see."
+T0128: "Not really"
+T0132: "No, I just focused on today since that's all I could see."
+T0135: "A bit. Not knowing the next session made me hold back on the last part."
