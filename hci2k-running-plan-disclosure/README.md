@@ -1,1 +1,0 @@
-# hci2k-running-plan-disclosure
