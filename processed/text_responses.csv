@@ -1,521 +1,521 @@
-response_id,participant_code,condition,week,session,session_index,session_type,next_category,status,question,response,substantive
-T0000,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_other,Slept badly last night.,True
-T0001,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True
-T0002,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0003,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule.",True
-T0004,R01,Full Plan,1,2,2,Interval run,easy run next,modified,modify_reason,Did 2 fewer reps because my legs were dead.,True
-T0005,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_other,Ran with a friend for part of it.,True
-T0006,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True
-T0007,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_plan_mind,No,False
-T0008,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_tracking,"Number of reps, rest times, and my watch timer.",True
-T0009,R01,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,"Yes, I saw the long run was next so I held back a bit today.",True
-T0010,R01,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,No,False
-T0011,R01,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True
-T0012,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_other,Felt stronger than last week.,True
-T0013,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True
-T0014,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0015,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Looked ahead at the plan to sort out my schedule.,True
-T0016,R01,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,A little. I kept something in the tank because the tempo run is coming up.,True
-T0017,R01,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Not really,False
-T0018,R01,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Also checked how today fits with the rest of the week.,True
-T0019,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_other,Good run overall.,True
-T0020,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True
-T0021,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the long run coming up.,True
-T0022,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown. Looked ahead at the plan to sort out my schedule.",True
-T0023,R01,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True
-T0024,R01,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Nothing in particular,False
-T0025,R01,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast.,True
-T0026,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_other,Watch lost GPS for a few minutes.,True
-T0027,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True
-T0028,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,"A little harder, the interval run was on my mind for most of the run.",True
-T0029,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True
-T0030,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_other,Good run overall.,True
-T0031,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True
-T0032,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Neither,False
-T0033,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True
-T0034,R01,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,No.,False
-T0035,R01,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Neither,False
-T0036,R01,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Also checked how today fits with the rest of the week.,True
-T0037,R01,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True
-T0038,R01,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,Not really,False
-T0039,R01,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part. Looked ahead at the plan to sort out my schedule.,True
-T0040,R02,Full Plan,1,2,2,Interval run,easy run next,modified,modify_reason,Ran the reps slower than target because of the heat.,True
-T0041,R02,Full Plan,1,2,2,Interval run,easy run next,modified,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True
-T0042,R02,Full Plan,1,2,2,Interval run,easy run next,modified,q_plan_mind,No,False
-T0043,R02,Full Plan,1,2,2,Interval run,easy run next,modified,q_tracking,Had to reread the session to get the intervals right.,True
-T0044,R02,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,No,False
-T0045,R02,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0046,R02,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast.,True
-T0047,R02,Full Plan,1,5,5,Long run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True
-T0048,R02,Full Plan,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Neither,False
-T0049,R02,Full Plan,1,5,5,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop. Looked ahead at the plan to sort out my schedule.,True
-T0050,R02,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,Not today,False
-T0051,R02,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,Not really,False
-T0052,R02,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True
-T0053,R02,Full Plan,2,2,7,Interval run,easy run next,modified,modify_reason,Did 2 fewer reps because my legs were dead.,True
-T0054,R02,Full Plan,2,2,7,Interval run,easy run next,modified,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True
-T0055,R02,Full Plan,2,2,7,Interval run,easy run next,modified,q_plan_mind,No,False
-T0056,R02,Full Plan,2,2,7,Interval run,easy run next,modified,q_tracking,Had to reread the session to get the intervals right.,True
-T0057,R02,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,No.,False
-T0058,R02,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True
-T0059,R02,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True
-T0060,R02,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,No,False
-T0061,R02,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0062,R02,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes. Also checked how today fits with the rest of the week.,True
-T0063,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_other,Moved some things around at work since I could see the schedule.,True
-T0064,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,No.,False
-T0065,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Not really,False
-T0066,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,"Route, water, and what to eat before. Also checked how today fits with the rest of the week.",True
-T0067,R02,Full Plan,3,1,11,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True
-T0068,R02,Full Plan,3,1,11,Easy run,harder session next,modified,q_pacing,A little. I kept something in the tank because the interval run is coming up.,True
-T0069,R02,Full Plan,3,1,11,Easy run,harder session next,modified,q_plan_mind,Easier. Being able to count down the final week really helped.,True
-T0070,R02,Full Plan,3,1,11,Easy run,harder session next,modified,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True
-T0071,R02,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True
-T0072,R02,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False
-T0073,R02,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,Had to reread the session to get the intervals right. Looked ahead at the plan to sort out my schedule.,True
-T0074,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True
-T0075,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_other,I like being able to plan my week around the sessions.,True
-T0076,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_pacing,"Yes, I saw the long run was next so I held back a bit today.",True
-T0077,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_plan_mind,Nothing,False
-T0078,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_tracking,Holding the target pace for the middle part.,True
-T0079,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_other,Good run overall.,True
-T0080,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"Yes. Nothing left after this one, so no reason to save energy.",True
-T0081,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,Easier. Being able to count down the final week really helped.,True
-T0082,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,Planned a loop with a water stop.,True
-T0083,R03,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True
-T0084,R03,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Neither,False
-T0085,R03,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True
-T0086,R03,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,No,False
-T0087,R03,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,Nothing in particular,False
-T0088,R03,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,Had to reread the session to get the intervals right. Checked the Messenger message again to confirm the details.,True
-T0089,R03,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,Hard to say. I don't know what's next so I went by feel.,True
-T0090,R03,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0091,R03,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True
-T0092,R03,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,"No, just ran it",False
-T0093,R03,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True
-T0094,R03,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown. Checked the Messenger message again to confirm the details.",True
-T0095,R03,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"No, just ran it",False
-T0096,R03,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True
-T0097,R03,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast.,True
-T0098,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,Really humid today.,True
-T0099,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,Not really,False
-T0100,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I only had to think about today.",True
-T0101,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True
-T0102,R03,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,"Yes, I pushed more since I figured I should use what I have today.",True
-T0103,R03,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,No,False
-T0104,R03,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True
-T0105,R03,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,Not really,False
-T0106,R03,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing in particular,False
-T0107,R03,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True
-T0108,R04,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0109,R04,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Not really,False
-T0110,R04,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Had to find the message with today's session first.,True
-T0111,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_other,Legs felt heavy from the start.,True
-T0112,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True
-T0113,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"Slightly harder, the interval run felt tougher than what I had guessed was coming.",True
-T0114,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,"Number of reps, rest times, and my watch timer.",True
-T0115,R04,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0116,R04,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True
-T0117,R04,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True
-T0118,R04,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0119,R04,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True
-T0120,R04,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True
-T0121,R04,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True
-T0122,R04,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,"Easier, I only had to think about today.",True
-T0123,R04,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast. Checked the Messenger message again to confirm the details.,True
-T0124,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,Would like to know a bit earlier what the session is.,True
-T0125,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,"No, I just focused on today since that's all I could see.",True
-T0126,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, less to think about. I just open the message and go.",True
-T0127,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Checked the Messenger message again to confirm the details.",True
-T0128,R04,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,Not really,False
-T0129,R04,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True
-T0130,R04,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries. Checked the Messenger message again to confirm the details.",True
-T0131,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_other,Felt stronger than last week.,True
-T0132,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,"No, I just focused on today since that's all I could see.",True
-T0133,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True
-T0134,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out.,True
-T0135,R04,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0136,R04,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Neither,False
-T0137,R04,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True
-T0138,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_other,Curious what the rest of the plan looks like.,True
-T0139,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True
-T0140,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this long run today so I hadn't really prepared.,True
-T0141,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,"Route, water, and what to eat before. Had to find the message with today's session first.",True
-T0142,R04,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True
-T0143,R04,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,Harder. I kept wondering how long the sessions would get.,True
-T0144,R04,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Had to find the message with today's session first.,True
-T0145,R04,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,Not today,False
-T0146,R04,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this interval run today so I hadn't really prepared.,True
-T0147,R04,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True
-T0148,R04,Current Only,3,3,13,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True
-T0149,R04,Current Only,3,3,13,Easy run,harder session next,modified,q_pacing,"Yes, I pushed more since I figured I should use what I have today.",True
-T0150,R04,Current Only,3,3,13,Easy run,harder session next,modified,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True
-T0151,R04,Current Only,3,3,13,Easy run,harder session next,modified,q_tracking,Keeping my pace easy and not going too fast. Had to find the message with today's session first.,True
-T0152,R04,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0153,R04,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, less to think about. I just open the message and go.",True
-T0154,R04,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part. Had to find the message with today's session first.,True
-T0155,R04,Current Only,3,5,15,Long run,final session,prescribed,q_pacing,"Slightly, I didn't want to wreck my legs in case the next one is hard.",True
-T0156,R04,Current Only,3,5,15,Long run,final session,prescribed,q_plan_mind,Nothing in particular,False
-T0157,R04,Current Only,3,5,15,Long run,final session,prescribed,q_tracking,"Route, water, and what to eat before. Had to find the message with today's session first.",True
-T0158,R05,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_pacing,No.,False
-T0159,R05,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Not really,False
-T0160,R05,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True
-T0161,R05,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True
-T0162,R05,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,No,False
-T0163,R05,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps.,True
-T0164,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_other,Really humid today.,True
-T0165,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the tempo run is next made me careful with my pace.,True
-T0166,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True
-T0167,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True
-T0168,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,modify_reason,Ran it at an easier pace because I was still sore.,True
-T0169,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,q_pacing,"Yes, I eased off near the end to save my legs for the long run.",True
-T0170,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,q_plan_mind,"A little harder, the long run was on my mind for most of the run.",True
-T0171,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes.,True
-T0172,R05,Full Plan,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True
-T0173,R05,Full Plan,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Neither,False
-T0174,R05,Full Plan,1,5,5,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast.,True
-T0175,R05,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,No.,False
-T0176,R05,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True
-T0177,R05,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Also checked how today fits with the rest of the week.,True
-T0178,R05,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True
-T0179,R05,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Nothing in particular,False
-T0180,R05,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Looked ahead at the plan to sort out my schedule.,True
-T0181,R05,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,"Yes, I eased off near the end to save my legs for the tempo run.",True
-T0182,R05,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True
-T0183,R05,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True
-T0184,R05,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,No,False
-T0185,R05,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the long run coming up.,True
-T0186,R05,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes. Also checked how today fits with the rest of the week.,True
-T0187,R05,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,"No, just ran it",False
-T0188,R05,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0189,R05,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True
-T0190,R05,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_pacing,Not today,False
-T0191,R05,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,No,False
-T0192,R05,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True
-T0193,R05,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"No, just ran it",False
-T0194,R05,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True
-T0195,R05,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Also checked how today fits with the rest of the week.,True
-T0196,R05,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,"Yes, I eased off near the end to save my legs for the tempo run.",True
-T0197,R05,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the tempo run coming up.,True
-T0198,R05,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Looked ahead at the plan to sort out my schedule.,True
-T0199,R05,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,No.,False
-T0200,R05,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the long run coming up.,True
-T0201,R05,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown. Also checked how today fits with the rest of the week.",True
-T0202,R05,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"Yes, it was the last session on the plan so I gave it everything.",True
-T0203,R05,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,"Harder at the start, looking at the whole week felt like a lot.",True
-T0204,R05,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,Total distance and not starting too fast. Also checked how today fits with the rest of the week.,True
-T0205,R06,Current Only,1,1,1,Easy run,harder session next,modified,modify_reason,"Cut it 10 minutes short, ran out of time before work.",True
-T0206,R06,Current Only,1,1,1,Easy run,harder session next,modified,q_pacing,No,False
-T0207,R06,Current Only,1,1,1,Easy run,harder session next,modified,q_plan_mind,Nothing,False
-T0208,R06,Current Only,1,1,1,Easy run,harder session next,modified,q_tracking,"Nothing much, just laced up and went. Had to find the message with today's session first.",True
-T0209,R06,Current Only,1,2,2,Interval run,easy run next,modified,modify_reason,Ran the reps slower than target because of the heat.,True
-T0210,R06,Current Only,1,2,2,Interval run,easy run next,modified,q_pacing,Hard to say. I don't know what's next so I went by feel.,True
-T0211,R06,Current Only,1,2,2,Interval run,easy run next,modified,q_plan_mind,"Easier, I only had to think about today.",True
-T0212,R06,Current Only,1,2,2,Interval run,easy run next,modified,q_tracking,Had to reread the session to get the intervals right.,True
-T0213,R06,Current Only,1,4,4,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True
-T0214,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_other,Would like to know a bit earlier what the session is.,True
-T0215,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0216,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_plan_mind,No,False
-T0217,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_tracking,Holding the target pace for the middle part.,True
-T0218,R06,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True
-T0219,R06,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,No,False
-T0220,R06,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,"Route, water, and what to eat before. Had to find the message with today's session first.",True
-T0221,R06,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,No,False
-T0222,R06,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True
-T0223,R06,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details.,True
-T0224,R06,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True
-T0225,R06,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False
-T0226,R06,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,Had to reread the session to get the intervals right. Had to find the message with today's session first.,True
-T0227,R06,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,Not really,False
-T0228,R06,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True
-T0229,R06,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Had to find the message with today's session first.",True
-T0230,R06,Current Only,2,4,9,Tempo run,harder session next,modified,modify_reason,Ran it at an easier pace because I was still sore.,True
-T0231,R06,Current Only,2,4,9,Tempo run,harder session next,modified,q_pacing,Hard to say. I don't know what's next so I went by feel.,True
-T0232,R06,Current Only,2,4,9,Tempo run,harder session next,modified,q_plan_mind,No,False
-T0233,R06,Current Only,2,4,9,Tempo run,harder session next,modified,q_tracking,Holding the target pace for the middle part. Checked the Messenger message again to confirm the details.,True
-T0234,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_other,Ran with a friend for part of it.,True
-T0235,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,No.,False
-T0236,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this long run today so I hadn't really prepared.,True
-T0237,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True
-T0238,R06,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True
-T0239,R06,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,Not really,False
-T0240,R06,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Had to find the message with today's session first.,True
-T0241,R06,Current Only,3,2,12,Interval run,easy run next,modified,modify_reason,Did 2 fewer reps because my legs were dead.,True
-T0242,R06,Current Only,3,2,12,Interval run,easy run next,modified,q_pacing,No.,False
-T0243,R06,Current Only,3,2,12,Interval run,easy run next,modified,q_plan_mind,Neither,False
-T0244,R06,Current Only,3,2,12,Interval run,easy run next,modified,q_tracking,"Number of reps, rest times, and my watch timer. Had to find the message with today's session first.",True
-T0245,R06,Current Only,3,3,13,Easy run,harder session next,modified,modify_reason,"Cut it 10 minutes short, ran out of time before work.",True
-T0246,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_other,Felt stronger than last week.,True
-T0247,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_pacing,Not really,False
-T0248,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_plan_mind,Not really,False
-T0249,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_tracking,"Nothing much, just laced up and went.",True
-T0250,R06,Current Only,3,4,14,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True
-T0251,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_other,Really humid today.,True
-T0252,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_pacing,"No, I just focused on today since that's all I could see.",True
-T0253,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_plan_mind,"Easier, I only had to think about today.",True
-T0254,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_tracking,"Warm-up, tempo block length, and cooldown.",True
-T0255,R07,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,"a bit. I could recover on the easy run next, so I worked harder",True
-T0256,R07,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"easier, I could tick off another one on the plan",True
-T0257,R07,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps,True
-T0258,R07,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False
-T0259,R07,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,nothing in particular,False
-T0260,R07,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out,True
-T0261,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_other,ran with a friend for part of it,True
-T0262,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,No.,False
-T0263,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,harder. I kept thinking about the long run coming up,True
-T0264,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,checking my pace every few minutes,True
-T0265,R07,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,a little. I kept something in the tank because the interval run is coming up,True
-T0266,R07,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"easier, it helped to see the end of the week coming",True
-T0267,R07,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,"nothing much, just laced up and went",True
-T0268,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_other,really humid today,True
-T0269,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"yes, I knew an easier day was next so I didn't hold much back",True
-T0270,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Not really,False
-T0271,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,"warm-up length, then reps and recoveries",True
-T0272,R07,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False
-T0273,R07,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0274,R07,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True
-T0275,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_other,slept badly last night,True
-T0276,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,Not really,False
-T0277,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0278,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part,True
-T0279,R07,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,"a bit. I could recover on the easy run next, so I worked harder",True
-T0280,R07,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Not really,False
-T0281,R07,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,total distance and not starting too fast. Also checked how today fits with the rest of the week,True
-T0282,R07,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,No.,False
-T0283,R07,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Neither,False
-T0284,R07,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps,True
-T0285,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_other,ran with a friend for part of it,True
-T0286,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,a little. I kept something in the tank because the tempo run is coming up,True
-T0287,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0288,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,"nothing much, just laced up and went. Also checked how today fits with the rest of the week",True
-T0289,R07,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,No.,False
-T0290,R07,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"a little harder, the long run was on my mind for most of the run",True
-T0291,R07,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,checking my pace every few minutes. Also checked how today fits with the rest of the week,True
-T0292,R07,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"yes, it was the last session on the plan so I gave it everything",True
-T0293,R07,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,Neither,False
-T0294,R07,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,planned a loop with a water stop,True
-T0295,R08,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,No,False
-T0296,R08,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,No,False
-T0297,R08,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True
-T0298,R08,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,"slightly, I didn't want to wreck my legs in case the next one is hard",True
-T0299,R08,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False
-T0300,R08,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,"number of reps, rest times, and my watch timer",True
-T0301,R08,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,No.,False
-T0302,R08,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,"harder, I didn't know if today was the toughest day of the week or not",True
-T0303,R08,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details,True
-T0304,R08,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,No.,False
-T0305,R08,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,Neither,False
-T0306,R08,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part,True
-T0307,R08,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"no, just ran it",False
-T0308,R08,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,"easier, less to think about. I just open the message and go",True
-T0309,R08,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,total distance and not starting too fast,True
-T0310,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,legs felt heavy from the start,True
-T0311,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False
-T0312,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,nothing in particular,False
-T0313,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,just the time on my watch,True
-T0314,R08,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,Not today,False
-T0315,R08,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,harder. I wasn't expecting this interval run today so I hadn't really prepared,True
-T0316,R08,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,"warm-up length, then reps and recoveries",True
-T0317,R08,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,No,False
-T0318,R08,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"easier, not knowing what's next meant I wasn't worrying about it",True
-T0319,R08,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True
-T0320,R08,Current Only,2,4,9,Tempo run,harder session next,modified,modify_reason,ran it at an easier pace because I was still sore,True
-T0321,R08,Current Only,2,4,9,Tempo run,harder session next,modified,q_pacing,"no, just ran it",False
-T0322,R08,Current Only,2,4,9,Tempo run,harder session next,modified,q_plan_mind,Not really,False
-T0323,R08,Current Only,2,4,9,Tempo run,harder session next,modified,q_tracking,"warm-up, tempo block length, and cooldown",True
-T0324,R08,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,Not really,False
-T0325,R08,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,"easier, I only had to think about today",True
-T0326,R08,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,total distance and not starting too fast,True
-T0327,R08,Current Only,3,1,11,Easy run,harder session next,modified,modify_reason,walked parts because my calf felt tight,True
-T0328,R08,Current Only,3,1,11,Easy run,harder session next,modified,q_pacing,"no, just ran it",False
-T0329,R08,Current Only,3,1,11,Easy run,harder session next,modified,q_plan_mind,Nothing,False
-T0330,R08,Current Only,3,1,11,Easy run,harder session next,modified,q_tracking,keeping my pace easy and not going too fast,True
-T0331,R08,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,"no, I just focused on today since that's all I could see",True
-T0332,R08,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,harder. I wasn't expecting this interval run today so I hadn't really prepared,True
-T0333,R08,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,had to reread the session to get the intervals right. Checked the Messenger message again to confirm the details,True
-T0334,R08,Current Only,3,3,13,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False
-T0335,R08,Current Only,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,"easier, not knowing what's next meant I wasn't worrying about it",True
-T0336,R08,Current Only,3,3,13,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out. Checked the Messenger message again to confirm the details,True
-T0337,R08,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,"yes, I didn't know what was coming next so I kept some energy in reserve",True
-T0338,R08,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"easier, less to think about. I just open the message and go",True
-T0339,R08,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part. Had to find the message with today's session first,True
-T0340,R09,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,No,False
-T0341,R09,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0342,R09,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Looked ahead at the plan to sort out my schedule.,True
-T0343,R09,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,No.,False
-T0344,R09,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0345,R09,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part. Looked ahead at the plan to sort out my schedule.,True
-T0346,R09,Full Plan,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True
-T0347,R09,Full Plan,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Not really,False
-T0348,R09,Full Plan,1,5,5,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True
-T0349,R09,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the interval run was next so I held back a bit today.",True
-T0350,R09,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True
-T0351,R09,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule.",True
-T0352,R09,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True
-T0353,R09,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Not really,False
-T0354,R09,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries. Also checked how today fits with the rest of the week.",True
-T0355,R09,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the tempo run was next so I held back a bit today.",True
-T0356,R09,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0357,R09,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Looked ahead at the plan to sort out my schedule.,True
-T0358,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True
-T0359,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,q_pacing,"Yes, I saw the long run was next so I held back a bit today.",True
-T0360,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True
-T0361,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes.,True
-T0362,R09,Full Plan,2,5,10,Long run,easy run next,modified,modify_reason,Split it into two shorter runs because of rain.,True
-T0363,R09,Full Plan,2,5,10,Long run,easy run next,modified,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True
-T0364,R09,Full Plan,2,5,10,Long run,easy run next,modified,q_plan_mind,Nothing,False
-T0365,R09,Full Plan,2,5,10,Long run,easy run next,modified,q_tracking,Total distance and not starting too fast.,True
-T0366,R09,Full Plan,3,3,13,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True
-T0367,R09,Full Plan,3,3,13,Easy run,harder session next,modified,q_pacing,No,False
-T0368,R09,Full Plan,3,3,13,Easy run,harder session next,modified,q_plan_mind,Easier. Seeing how many sessions are left made it feel doable.,True
-T0369,R09,Full Plan,3,3,13,Easy run,harder session next,modified,q_tracking,Just the time on my watch.,True
-T0370,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,modify_reason,Ran it at an easier pace because I was still sore.,True
-T0371,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,q_pacing,No.,False
-T0372,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True
-T0373,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes. Looked ahead at the plan to sort out my schedule.,True
-T0374,R09,Full Plan,3,5,15,Long run,final session,modified,modify_reason,Split it into two shorter runs because of rain.,True
-T0375,R09,Full Plan,3,5,15,Long run,final session,modified,q_pacing,No,False
-T0376,R09,Full Plan,3,5,15,Long run,final session,modified,q_plan_mind,No,False
-T0377,R09,Full Plan,3,5,15,Long run,final session,modified,q_tracking,"Route, water, and what to eat before. Also checked how today fits with the rest of the week.",True
-T0378,R10,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,"yes, I pushed more since I figured I should use what I have today",True
-T0379,R10,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,"a bit harder near the end, no sense of how much is left in the plan",True
-T0380,R10,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,just the time on my watch. Had to find the message with today's session first,True
-T0381,R10,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,"no, just ran it",False
-T0382,R10,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,nothing in particular,False
-T0383,R10,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps. Checked the Messenger message again to confirm the details,True
-T0384,R10,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,"slightly, I didn't want to wreck my legs in case the next one is hard",True
-T0385,R10,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,"a bit harder near the end, no sense of how much is left in the plan",True
-T0386,R10,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details,True
-T0387,R10,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,not really. I only think about the session in front of me,True
-T0388,R10,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"easier, not knowing what's next meant I wasn't worrying about it",True
-T0389,R10,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part. Had to find the message with today's session first,True
-T0390,R10,Current Only,1,5,5,Long run,easy run next,modified,modify_reason,split it into two shorter runs because of rain,True
-T0391,R10,Current Only,1,5,5,Long run,easy run next,modified,q_pacing,"no, just ran it",False
-T0392,R10,Current Only,1,5,5,Long run,easy run next,modified,q_plan_mind,Neither,False
-T0393,R10,Current Only,1,5,5,Long run,easy run next,modified,q_tracking,total distance and not starting too fast. Checked the Messenger message again to confirm the details,True
-T0394,R10,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False
-T0395,R10,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"a bit harder near the end, no sense of how much is left in the plan",True
-T0396,R10,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True
-T0397,R10,Current Only,2,2,7,Interval run,easy run next,modified,modify_reason,did 2 fewer reps because my legs were dead,True
-T0398,R10,Current Only,2,2,7,Interval run,easy run next,modified,q_pacing,hard to say. I don't know what's next so I went by feel,True
-T0399,R10,Current Only,2,2,7,Interval run,easy run next,modified,q_plan_mind,Not really,False
-T0400,R10,Current Only,2,2,7,Interval run,easy run next,modified,q_tracking,fast pace targets and counting reps,True
-T0401,R10,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,"slightly, I didn't want to wreck my legs in case the next one is hard",True
-T0402,R10,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,harder. I kept wondering how long the sessions would get,True
-T0403,R10,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out. Checked the Messenger message again to confirm the details,True
-T0404,R10,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_pacing,"yes, I didn't know what was coming next so I kept some energy in reserve",True
-T0405,R10,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,harder. I wasn't expecting this tempo run today so I hadn't really prepared,True
-T0406,R10,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part. Checked the Messenger message again to confirm the details,True
-T0407,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_other,ran with a friend for part of it,True
-T0408,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,Not really,False
-T0409,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Nothing,False
-T0410,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,"route, water, and what to eat before. Had to find the message with today's session first",True
-T0411,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_other,would like to know a bit earlier what the session is,True
-T0412,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,hard to say. I don't know what's next so I went by feel,True
-T0413,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,"harder, I didn't know if today was the toughest day of the week or not",True
-T0414,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out,True
-T0415,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_other,good run overall,True
-T0416,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,not really. I only think about the session in front of me,True
-T0417,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,"slightly harder, the interval run felt tougher than what I had guessed was coming",True
-T0418,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps,True
-T0419,R10,Current Only,3,3,13,Easy run,harder session next,modified,modify_reason,"cut it 10 minutes short, ran out of time before work",True
-T0420,R10,Current Only,3,3,13,Easy run,harder session next,modified,q_pacing,not really. I only think about the session in front of me,True
-T0421,R10,Current Only,3,3,13,Easy run,harder session next,modified,q_plan_mind,"easier, I only had to think about today",True
-T0422,R10,Current Only,3,3,13,Easy run,harder session next,modified,q_tracking,keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details,True
-T0423,R10,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,No.,False
-T0424,R10,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,nothing in particular,False
-T0425,R10,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,"warm-up, tempo block length, and cooldown",True
-T0426,R10,Current Only,3,5,15,Long run,final session,prescribed,q_pacing,"no, I just focused on today since that's all I could see",True
-T0427,R10,Current Only,3,5,15,Long run,final session,prescribed,q_plan_mind,"easier, less to think about. I just open the message and go",True
-T0428,R10,Current Only,3,5,15,Long run,final session,prescribed,q_tracking,total distance and not starting too fast,True
-T0429,R11,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_pacing,A little. I kept something in the tank because the interval run is coming up.,True
-T0430,R11,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the interval run coming up.,True
-T0431,R11,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast.,True
-T0432,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_other,Legs felt heavy from the start.,True
-T0433,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True
-T0434,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0435,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,"Number of reps, rest times, and my watch timer. Looked ahead at the plan to sort out my schedule.",True
-T0436,R11,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the tempo run was next so I held back a bit today.",True
-T0437,R11,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0438,R11,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Also checked how today fits with the rest of the week.,True
-T0439,R11,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True
-T0440,R11,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"Harder at the start, looking at the whole week felt like a lot.",True
-T0441,R11,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True
-T0442,R11,Full Plan,2,1,6,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True
-T0443,R11,Full Plan,2,1,6,Easy run,harder session next,modified,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True
-T0444,R11,Full Plan,2,1,6,Easy run,harder session next,modified,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0445,R11,Full Plan,2,1,6,Easy run,harder session next,modified,q_tracking,Just the time on my watch. Also checked how today fits with the rest of the week.,True
-T0446,R11,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True
-T0447,R11,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False
-T0448,R11,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries. Looked ahead at the plan to sort out my schedule.",True
-T0449,R11,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the tempo run is next made me careful with my pace.,True
-T0450,R11,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0451,R11,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Looked ahead at the plan to sort out my schedule.,True
-T0452,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True
-T0453,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_other,Watch lost GPS for a few minutes.,True
-T0454,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True
-T0455,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_plan_mind,"Easier, it helped to see the end of the week coming.",True
-T0456,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes. Looked ahead at the plan to sort out my schedule.,True
-T0457,R11,Full Plan,2,5,10,Long run,easy run next,modified,modify_reason,Split it into two shorter runs because of rain.,True
-T0458,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_other,Good run overall.,True
-T0459,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True
-T0460,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_plan_mind,"Harder at the start, looking at the whole week felt like a lot.",True
-T0461,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_tracking,"Route, water, and what to eat before. Also checked how today fits with the rest of the week.",True
-T0462,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_other,I like being able to plan my week around the sessions.,True
-T0463,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the interval run was next so I held back a bit today.",True
-T0464,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True
-T0465,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule.",True
-T0466,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_other,Watch lost GPS for a few minutes.,True
-T0467,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True
-T0468,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True
-T0469,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Also checked how today fits with the rest of the week.,True
-T0470,R11,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the tempo run is next made me careful with my pace.,True
-T0471,R11,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0472,R11,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast.,True
-T0473,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_other,Legs felt heavy from the start.,True
-T0474,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,"Yes, I eased off near the end to save my legs for the long run.",True
-T0475,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,Nothing in particular,False
-T0476,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part.,True
-T0477,R11,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"Yes, it was the last session on the plan so I gave it everything.",True
-T0478,R11,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True
-T0479,R11,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,Total distance and not starting too fast. Also checked how today fits with the rest of the week.,True
-T0480,R12,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,"No, just ran it",False
-T0481,R12,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Neither,False
-T0482,R12,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True
-T0483,R12,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,Not really,False
-T0484,R12,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,Nothing in particular,False
-T0485,R12,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True
-T0486,R12,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True
-T0487,R12,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,Not really,False
-T0488,R12,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown.",True
-T0489,R12,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,No,False
-T0490,R12,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Nothing in particular,False
-T0491,R12,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True
-T0492,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,Curious what the rest of the plan looks like.,True
-T0493,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True
-T0494,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0495,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out.,True
-T0496,R12,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,Not today,False
-T0497,R12,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False
-T0498,R12,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Had to find the message with today's session first.",True
-T0499,R12,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_pacing,Not really,False
-T0500,R12,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True
-T0501,R12,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes. Had to find the message with today's session first.,True
-T0502,R12,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,"No, just ran it",False
-T0503,R12,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,"Slightly harder, the long run felt tougher than what I had guessed was coming.",True
-T0504,R12,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop. Checked the Messenger message again to confirm the details.,True
-T0505,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_other,Legs felt heavy from the start.,True
-T0506,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,"No, just ran it",False
-T0507,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True
-T0508,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details.,True
-T0509,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_other,Watch lost GPS for a few minutes.,True
-T0510,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,No.,False
-T0511,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this interval run today so I hadn't really prepared.,True
-T0512,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True
-T0513,R12,Current Only,3,3,13,Easy run,harder session next,prescribed,q_pacing,Not really,False
-T0514,R12,Current Only,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True
-T0515,R12,Current Only,3,3,13,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Checked the Messenger message again to confirm the details.",True
-T0516,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_other,Really humid today.,True
-T0517,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,"Slightly, I didn't want to wreck my legs in case the next one is hard.",True
-T0518,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, less to think about. I just open the message and go.",True
-T0519,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown.",True
+response_id,participant_code,condition,week,session,session_index,session_type,next_category,status,question,response,substantive,language
+T0000,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_other,Slept badly last night.,True,English
+T0001,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True,English
+T0002,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0003,R01,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule.",True,English
+T0004,R01,Full Plan,1,2,2,Interval run,easy run next,modified,modify_reason,Did 2 fewer reps because my legs were dead.,True,English
+T0005,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_other,Ran with a friend for part of it.,True,English
+T0006,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True,English
+T0007,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_plan_mind,No,False,English
+T0008,R01,Full Plan,1,2,2,Interval run,easy run next,modified,q_tracking,"Number of reps, rest times, and my watch timer.",True,English
+T0009,R01,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,"Yes, I saw the long run was next so I held back a bit today.",True,English
+T0010,R01,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,No,False,English
+T0011,R01,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True,English
+T0012,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_other,Felt stronger than last week.,True,English
+T0013,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True,English
+T0014,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0015,R01,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Looked ahead at the plan to sort out my schedule.,True,English
+T0016,R01,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,A little. I kept something in the tank because the tempo run is coming up.,True,English
+T0017,R01,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0018,R01,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Also checked how today fits with the rest of the week.,True,English
+T0019,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_other,Good run overall.,True,English
+T0020,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True,English
+T0021,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the long run coming up.,True,English
+T0022,R01,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown. Looked ahead at the plan to sort out my schedule.",True,English
+T0023,R01,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True,English
+T0024,R01,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0025,R01,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast.,True,English
+T0026,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_other,Watch lost GPS for a few minutes.,True,English
+T0027,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True,English
+T0028,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,"A little harder, the interval run was on my mind for most of the run.",True,English
+T0029,R01,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True,English
+T0030,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_other,Good run overall.,True,English
+T0031,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True,English
+T0032,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Neither,False,English
+T0033,R01,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True,English
+T0034,R01,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,No.,False,English
+T0035,R01,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Neither,False,English
+T0036,R01,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Also checked how today fits with the rest of the week.,True,English
+T0037,R01,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True,English
+T0038,R01,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0039,R01,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part. Looked ahead at the plan to sort out my schedule.,True,English
+T0040,R02,Full Plan,1,2,2,Interval run,easy run next,modified,modify_reason,Ran the reps slower than target because of the heat.,True,English
+T0041,R02,Full Plan,1,2,2,Interval run,easy run next,modified,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True,English
+T0042,R02,Full Plan,1,2,2,Interval run,easy run next,modified,q_plan_mind,No,False,English
+T0043,R02,Full Plan,1,2,2,Interval run,easy run next,modified,q_tracking,Had to reread the session to get the intervals right.,True,English
+T0044,R02,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,No,False,English
+T0045,R02,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0046,R02,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast.,True,English
+T0047,R02,Full Plan,1,5,5,Long run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True,English
+T0048,R02,Full Plan,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Neither,False,English
+T0049,R02,Full Plan,1,5,5,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop. Looked ahead at the plan to sort out my schedule.,True,English
+T0050,R02,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,Not today,False,English
+T0051,R02,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0052,R02,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True,English
+T0053,R02,Full Plan,2,2,7,Interval run,easy run next,modified,modify_reason,Did 2 fewer reps because my legs were dead.,True,English
+T0054,R02,Full Plan,2,2,7,Interval run,easy run next,modified,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True,English
+T0055,R02,Full Plan,2,2,7,Interval run,easy run next,modified,q_plan_mind,No,False,English
+T0056,R02,Full Plan,2,2,7,Interval run,easy run next,modified,q_tracking,Had to reread the session to get the intervals right.,True,English
+T0057,R02,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,No.,False,English
+T0058,R02,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True,English
+T0059,R02,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True,English
+T0060,R02,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,No,False,English
+T0061,R02,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0062,R02,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes. Also checked how today fits with the rest of the week.,True,English
+T0063,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_other,Moved some things around at work since I could see the schedule.,True,English
+T0064,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,No.,False,English
+T0065,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Not really,False,English
+T0066,R02,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,"Route, water, and what to eat before. Also checked how today fits with the rest of the week.",True,English
+T0067,R02,Full Plan,3,1,11,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True,English
+T0068,R02,Full Plan,3,1,11,Easy run,harder session next,modified,q_pacing,A little. I kept something in the tank because the interval run is coming up.,True,English
+T0069,R02,Full Plan,3,1,11,Easy run,harder session next,modified,q_plan_mind,Easier. Being able to count down the final week really helped.,True,English
+T0070,R02,Full Plan,3,1,11,Easy run,harder session next,modified,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True,English
+T0071,R02,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True,English
+T0072,R02,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False,English
+T0073,R02,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,Had to reread the session to get the intervals right. Looked ahead at the plan to sort out my schedule.,True,English
+T0074,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True,English
+T0075,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_other,I like being able to plan my week around the sessions.,True,English
+T0076,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_pacing,"Yes, I saw the long run was next so I held back a bit today.",True,English
+T0077,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_plan_mind,Nothing,False,English
+T0078,R02,Full Plan,3,4,14,Tempo run,harder session next,modified,q_tracking,Holding the target pace for the middle part.,True,English
+T0079,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_other,Good run overall.,True,English
+T0080,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"Yes. Nothing left after this one, so no reason to save energy.",True,English
+T0081,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,Easier. Being able to count down the final week really helped.,True,English
+T0082,R02,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,Planned a loop with a water stop.,True,English
+T0083,R03,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True,English
+T0084,R03,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Neither,False,English
+T0085,R03,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True,English
+T0086,R03,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,No,False,English
+T0087,R03,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0088,R03,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,Had to reread the session to get the intervals right. Checked the Messenger message again to confirm the details.,True,English
+T0089,R03,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,Hard to say. I don't know what's next so I went by feel.,True,English
+T0090,R03,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0091,R03,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True,English
+T0092,R03,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,"No, just ran it",False,English
+T0093,R03,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True,English
+T0094,R03,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown. Checked the Messenger message again to confirm the details.",True,English
+T0095,R03,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"No, just ran it",False,English
+T0096,R03,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True,English
+T0097,R03,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast.,True,English
+T0098,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,Really humid today.,True,English
+T0099,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,Not really,False,English
+T0100,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I only had to think about today.",True,English
+T0101,R03,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True,English
+T0102,R03,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,"Yes, I pushed more since I figured I should use what I have today.",True,English
+T0103,R03,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,No,False,English
+T0104,R03,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True,English
+T0105,R03,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,Not really,False,English
+T0106,R03,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0107,R03,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True,English
+T0108,R04,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0109,R04,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0110,R04,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Had to find the message with today's session first.,True,English
+T0111,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_other,Legs felt heavy from the start.,True,English
+T0112,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True,English
+T0113,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"Slightly harder, the interval run felt tougher than what I had guessed was coming.",True,English
+T0114,R04,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,"Number of reps, rest times, and my watch timer.",True,English
+T0115,R04,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0116,R04,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True,English
+T0117,R04,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True,English
+T0118,R04,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0119,R04,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True,English
+T0120,R04,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True,English
+T0121,R04,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True,English
+T0122,R04,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,"Easier, I only had to think about today.",True,English
+T0123,R04,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast. Checked the Messenger message again to confirm the details.,True,English
+T0124,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,Would like to know a bit earlier what the session is.,True,English
+T0125,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,"No, I just focused on today since that's all I could see.",True,English
+T0126,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, less to think about. I just open the message and go.",True,English
+T0127,R04,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Checked the Messenger message again to confirm the details.",True,English
+T0128,R04,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,Not really,False,English
+T0129,R04,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True,English
+T0130,R04,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries. Checked the Messenger message again to confirm the details.",True,English
+T0131,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_other,Felt stronger than last week.,True,English
+T0132,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,"No, I just focused on today since that's all I could see.",True,English
+T0133,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True,English
+T0134,R04,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out.,True,English
+T0135,R04,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0136,R04,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Neither,False,English
+T0137,R04,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True,English
+T0138,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_other,Curious what the rest of the plan looks like.,True,English
+T0139,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True,English
+T0140,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this long run today so I hadn't really prepared.,True,English
+T0141,R04,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,"Route, water, and what to eat before. Had to find the message with today's session first.",True,English
+T0142,R04,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True,English
+T0143,R04,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,Harder. I kept wondering how long the sessions would get.,True,English
+T0144,R04,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Had to find the message with today's session first.,True,English
+T0145,R04,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,Not today,False,English
+T0146,R04,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this interval run today so I hadn't really prepared.,True,English
+T0147,R04,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True,English
+T0148,R04,Current Only,3,3,13,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True,English
+T0149,R04,Current Only,3,3,13,Easy run,harder session next,modified,q_pacing,"Yes, I pushed more since I figured I should use what I have today.",True,English
+T0150,R04,Current Only,3,3,13,Easy run,harder session next,modified,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True,English
+T0151,R04,Current Only,3,3,13,Easy run,harder session next,modified,q_tracking,Keeping my pace easy and not going too fast. Had to find the message with today's session first.,True,English
+T0152,R04,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0153,R04,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, less to think about. I just open the message and go.",True,English
+T0154,R04,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part. Had to find the message with today's session first.,True,English
+T0155,R04,Current Only,3,5,15,Long run,final session,prescribed,q_pacing,"Slightly, I didn't want to wreck my legs in case the next one is hard.",True,English
+T0156,R04,Current Only,3,5,15,Long run,final session,prescribed,q_plan_mind,Nothing in particular,False,English
+T0157,R04,Current Only,3,5,15,Long run,final session,prescribed,q_tracking,"Route, water, and what to eat before. Had to find the message with today's session first.",True,English
+T0158,R05,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_pacing,No.,False,English
+T0159,R05,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0160,R05,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True,English
+T0161,R05,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True,English
+T0162,R05,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,No,False,English
+T0163,R05,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps.,True,English
+T0164,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_other,Really humid today.,True,English
+T0165,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the tempo run is next made me careful with my pace.,True,English
+T0166,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True,English
+T0167,R05,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True,English
+T0168,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,modify_reason,Ran it at an easier pace because I was still sore.,True,English
+T0169,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,q_pacing,"Yes, I eased off near the end to save my legs for the long run.",True,English
+T0170,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,q_plan_mind,"A little harder, the long run was on my mind for most of the run.",True,English
+T0171,R05,Full Plan,1,4,4,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes.,True,English
+T0172,R05,Full Plan,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True,English
+T0173,R05,Full Plan,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Neither,False,English
+T0174,R05,Full Plan,1,5,5,Long run,easy run next,prescribed,q_tracking,Total distance and not starting too fast.,True,English
+T0175,R05,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,No.,False,English
+T0176,R05,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True,English
+T0177,R05,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Also checked how today fits with the rest of the week.,True,English
+T0178,R05,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True,English
+T0179,R05,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0180,R05,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Looked ahead at the plan to sort out my schedule.,True,English
+T0181,R05,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,"Yes, I eased off near the end to save my legs for the tempo run.",True,English
+T0182,R05,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True,English
+T0183,R05,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch.,True,English
+T0184,R05,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,No,False,English
+T0185,R05,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the long run coming up.,True,English
+T0186,R05,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes. Also checked how today fits with the rest of the week.,True,English
+T0187,R05,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,"No, just ran it",False,English
+T0188,R05,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0189,R05,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True,English
+T0190,R05,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_pacing,Not today,False,English
+T0191,R05,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,No,False,English
+T0192,R05,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Also checked how today fits with the rest of the week.,True,English
+T0193,R05,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"No, just ran it",False,English
+T0194,R05,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True,English
+T0195,R05,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Also checked how today fits with the rest of the week.,True,English
+T0196,R05,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,"Yes, I eased off near the end to save my legs for the tempo run.",True,English
+T0197,R05,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the tempo run coming up.,True,English
+T0198,R05,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Looked ahead at the plan to sort out my schedule.,True,English
+T0199,R05,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,No.,False,English
+T0200,R05,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the long run coming up.,True,English
+T0201,R05,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown. Also checked how today fits with the rest of the week.",True,English
+T0202,R05,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"Yes, it was the last session on the plan so I gave it everything.",True,English
+T0203,R05,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,"Harder at the start, looking at the whole week felt like a lot.",True,English
+T0204,R05,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,Total distance and not starting too fast. Also checked how today fits with the rest of the week.,True,English
+T0205,R06,Current Only,1,1,1,Easy run,harder session next,modified,modify_reason,"Cut it 10 minutes short, ran out of time before work.",True,English
+T0206,R06,Current Only,1,1,1,Easy run,harder session next,modified,q_pacing,No,False,English
+T0207,R06,Current Only,1,1,1,Easy run,harder session next,modified,q_plan_mind,Nothing,False,English
+T0208,R06,Current Only,1,1,1,Easy run,harder session next,modified,q_tracking,"Nothing much, just laced up and went. Had to find the message with today's session first.",True,English
+T0209,R06,Current Only,1,2,2,Interval run,easy run next,modified,modify_reason,Ran the reps slower than target because of the heat.,True,English
+T0210,R06,Current Only,1,2,2,Interval run,easy run next,modified,q_pacing,Hard to say. I don't know what's next so I went by feel.,True,English
+T0211,R06,Current Only,1,2,2,Interval run,easy run next,modified,q_plan_mind,"Easier, I only had to think about today.",True,English
+T0212,R06,Current Only,1,2,2,Interval run,easy run next,modified,q_tracking,Had to reread the session to get the intervals right.,True,English
+T0213,R06,Current Only,1,4,4,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True,English
+T0214,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_other,Would like to know a bit earlier what the session is.,True,English
+T0215,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0216,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_plan_mind,No,False,English
+T0217,R06,Current Only,1,4,4,Tempo run,harder session next,modified,q_tracking,Holding the target pace for the middle part.,True,English
+T0218,R06,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True,English
+T0219,R06,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,No,False,English
+T0220,R06,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,"Route, water, and what to eat before. Had to find the message with today's session first.",True,English
+T0221,R06,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,No,False,English
+T0222,R06,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True,English
+T0223,R06,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details.,True,English
+T0224,R06,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True,English
+T0225,R06,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False,English
+T0226,R06,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,Had to reread the session to get the intervals right. Had to find the message with today's session first.,True,English
+T0227,R06,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,Not really,False,English
+T0228,R06,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Harder, I didn't know if today was the toughest day of the week or not.",True,English
+T0229,R06,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Had to find the message with today's session first.",True,English
+T0230,R06,Current Only,2,4,9,Tempo run,harder session next,modified,modify_reason,Ran it at an easier pace because I was still sore.,True,English
+T0231,R06,Current Only,2,4,9,Tempo run,harder session next,modified,q_pacing,Hard to say. I don't know what's next so I went by feel.,True,English
+T0232,R06,Current Only,2,4,9,Tempo run,harder session next,modified,q_plan_mind,No,False,English
+T0233,R06,Current Only,2,4,9,Tempo run,harder session next,modified,q_tracking,Holding the target pace for the middle part. Checked the Messenger message again to confirm the details.,True,English
+T0234,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_other,Ran with a friend for part of it.,True,English
+T0235,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,No.,False,English
+T0236,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this long run today so I hadn't really prepared.,True,English
+T0237,R06,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True,English
+T0238,R06,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,"Yes, I didn't know what was coming next so I kept some energy in reserve.",True,English
+T0239,R06,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0240,R06,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Had to find the message with today's session first.,True,English
+T0241,R06,Current Only,3,2,12,Interval run,easy run next,modified,modify_reason,Did 2 fewer reps because my legs were dead.,True,English
+T0242,R06,Current Only,3,2,12,Interval run,easy run next,modified,q_pacing,No.,False,English
+T0243,R06,Current Only,3,2,12,Interval run,easy run next,modified,q_plan_mind,Neither,False,English
+T0244,R06,Current Only,3,2,12,Interval run,easy run next,modified,q_tracking,"Number of reps, rest times, and my watch timer. Had to find the message with today's session first.",True,English
+T0245,R06,Current Only,3,3,13,Easy run,harder session next,modified,modify_reason,"Cut it 10 minutes short, ran out of time before work.",True,English
+T0246,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_other,Felt stronger than last week.,True,English
+T0247,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_pacing,Not really,False,English
+T0248,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_plan_mind,Not really,False,English
+T0249,R06,Current Only,3,3,13,Easy run,harder session next,modified,q_tracking,"Nothing much, just laced up and went.",True,English
+T0250,R06,Current Only,3,4,14,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True,English
+T0251,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_other,Really humid today.,True,English
+T0252,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_pacing,"No, I just focused on today since that's all I could see.",True,English
+T0253,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_plan_mind,"Easier, I only had to think about today.",True,English
+T0254,R06,Current Only,3,4,14,Tempo run,harder session next,modified,q_tracking,"Warm-up, tempo block length, and cooldown.",True,English
+T0255,R07,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,"a bit. I could recover on the easy run next, so I worked harder",True,English
+T0256,R07,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"easier, I could tick off another one on the plan",True,English
+T0257,R07,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps,True,English
+T0258,R07,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False,English
+T0259,R07,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,nothing in particular,False,English
+T0260,R07,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out,True,English
+T0261,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_other,ran with a friend for part of it,True,English
+T0262,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,No.,False,English
+T0263,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,harder. I kept thinking about the long run coming up,True,English
+T0264,R07,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,checking my pace every few minutes,True,English
+T0265,R07,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,a little. I kept something in the tank because the interval run is coming up,True,English
+T0266,R07,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"easier, it helped to see the end of the week coming",True,English
+T0267,R07,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,"nothing much, just laced up and went",True,English
+T0268,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_other,really humid today,True,English
+T0269,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"yes, I knew an easier day was next so I didn't hold much back",True,English
+T0270,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Not really,False,English
+T0271,R07,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,"warm-up length, then reps and recoveries",True,English
+T0272,R07,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False,English
+T0273,R07,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0274,R07,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True,English
+T0275,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_other,slept badly last night,True,English
+T0276,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_pacing,Not really,False,English
+T0277,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0278,R07,Full Plan,2,4,9,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part,True,English
+T0279,R07,Full Plan,2,5,10,Long run,easy run next,prescribed,q_pacing,"a bit. I could recover on the easy run next, so I worked harder",True,English
+T0280,R07,Full Plan,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Not really,False,English
+T0281,R07,Full Plan,2,5,10,Long run,easy run next,prescribed,q_tracking,total distance and not starting too fast. Also checked how today fits with the rest of the week,True,English
+T0282,R07,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,No.,False,English
+T0283,R07,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Neither,False,English
+T0284,R07,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps,True,English
+T0285,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_other,ran with a friend for part of it,True,English
+T0286,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,a little. I kept something in the tank because the tempo run is coming up,True,English
+T0287,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0288,R07,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,"nothing much, just laced up and went. Also checked how today fits with the rest of the week",True,English
+T0289,R07,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,No.,False,English
+T0290,R07,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"a little harder, the long run was on my mind for most of the run",True,English
+T0291,R07,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,checking my pace every few minutes. Also checked how today fits with the rest of the week,True,English
+T0292,R07,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"yes, it was the last session on the plan so I gave it everything",True,English
+T0293,R07,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,Neither,False,English
+T0294,R07,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,planned a loop with a water stop,True,English
+T0295,R08,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,No,False,English
+T0296,R08,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,No,False,English
+T0297,R08,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True,English
+T0298,R08,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,"slightly, I didn't want to wreck my legs in case the next one is hard",True,English
+T0299,R08,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False,English
+T0300,R08,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,"number of reps, rest times, and my watch timer",True,English
+T0301,R08,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,No.,False,English
+T0302,R08,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,"harder, I didn't know if today was the toughest day of the week or not",True,English
+T0303,R08,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details,True,English
+T0304,R08,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,No.,False,English
+T0305,R08,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,Neither,False,English
+T0306,R08,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part,True,English
+T0307,R08,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,"no, just ran it",False,English
+T0308,R08,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,"easier, less to think about. I just open the message and go",True,English
+T0309,R08,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,total distance and not starting too fast,True,English
+T0310,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,legs felt heavy from the start,True,English
+T0311,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False,English
+T0312,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,nothing in particular,False,English
+T0313,R08,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,just the time on my watch,True,English
+T0314,R08,Current Only,2,2,7,Interval run,easy run next,prescribed,q_pacing,Not today,False,English
+T0315,R08,Current Only,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,harder. I wasn't expecting this interval run today so I hadn't really prepared,True,English
+T0316,R08,Current Only,2,2,7,Interval run,easy run next,prescribed,q_tracking,"warm-up length, then reps and recoveries",True,English
+T0317,R08,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,No,False,English
+T0318,R08,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"easier, not knowing what's next meant I wasn't worrying about it",True,English
+T0319,R08,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True,English
+T0320,R08,Current Only,2,4,9,Tempo run,harder session next,modified,modify_reason,ran it at an easier pace because I was still sore,True,English
+T0321,R08,Current Only,2,4,9,Tempo run,harder session next,modified,q_pacing,"no, just ran it",False,English
+T0322,R08,Current Only,2,4,9,Tempo run,harder session next,modified,q_plan_mind,Not really,False,English
+T0323,R08,Current Only,2,4,9,Tempo run,harder session next,modified,q_tracking,"warm-up, tempo block length, and cooldown",True,English
+T0324,R08,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,Not really,False,English
+T0325,R08,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,"easier, I only had to think about today",True,English
+T0326,R08,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,total distance and not starting too fast,True,English
+T0327,R08,Current Only,3,1,11,Easy run,harder session next,modified,modify_reason,walked parts because my calf felt tight,True,English
+T0328,R08,Current Only,3,1,11,Easy run,harder session next,modified,q_pacing,"no, just ran it",False,English
+T0329,R08,Current Only,3,1,11,Easy run,harder session next,modified,q_plan_mind,Nothing,False,English
+T0330,R08,Current Only,3,1,11,Easy run,harder session next,modified,q_tracking,keeping my pace easy and not going too fast,True,English
+T0331,R08,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,"no, I just focused on today since that's all I could see",True,English
+T0332,R08,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,harder. I wasn't expecting this interval run today so I hadn't really prepared,True,English
+T0333,R08,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,had to reread the session to get the intervals right. Checked the Messenger message again to confirm the details,True,English
+T0334,R08,Current Only,3,3,13,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False,English
+T0335,R08,Current Only,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,"easier, not knowing what's next meant I wasn't worrying about it",True,English
+T0336,R08,Current Only,3,3,13,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out. Checked the Messenger message again to confirm the details,True,English
+T0337,R08,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,"yes, I didn't know what was coming next so I kept some energy in reserve",True,English
+T0338,R08,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"easier, less to think about. I just open the message and go",True,English
+T0339,R08,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part. Had to find the message with today's session first,True,English
+T0340,R09,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,No,False,English
+T0341,R09,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0342,R09,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Looked ahead at the plan to sort out my schedule.,True,English
+T0343,R09,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,No.,False,English
+T0344,R09,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0345,R09,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part. Looked ahead at the plan to sort out my schedule.,True,English
+T0346,R09,Full Plan,1,5,5,Long run,easy run next,prescribed,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True,English
+T0347,R09,Full Plan,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Not really,False,English
+T0348,R09,Full Plan,1,5,5,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True,English
+T0349,R09,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the interval run was next so I held back a bit today.",True,English
+T0350,R09,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True,English
+T0351,R09,Full Plan,2,1,6,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule.",True,English
+T0352,R09,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True,English
+T0353,R09,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Not really,False,English
+T0354,R09,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries. Also checked how today fits with the rest of the week.",True,English
+T0355,R09,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the tempo run was next so I held back a bit today.",True,English
+T0356,R09,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0357,R09,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Looked ahead at the plan to sort out my schedule.,True,English
+T0358,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True,English
+T0359,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,q_pacing,"Yes, I saw the long run was next so I held back a bit today.",True,English
+T0360,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True,English
+T0361,R09,Full Plan,2,4,9,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes.,True,English
+T0362,R09,Full Plan,2,5,10,Long run,easy run next,modified,modify_reason,Split it into two shorter runs because of rain.,True,English
+T0363,R09,Full Plan,2,5,10,Long run,easy run next,modified,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True,English
+T0364,R09,Full Plan,2,5,10,Long run,easy run next,modified,q_plan_mind,Nothing,False,English
+T0365,R09,Full Plan,2,5,10,Long run,easy run next,modified,q_tracking,Total distance and not starting too fast.,True,English
+T0366,R09,Full Plan,3,3,13,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True,English
+T0367,R09,Full Plan,3,3,13,Easy run,harder session next,modified,q_pacing,No,False,English
+T0368,R09,Full Plan,3,3,13,Easy run,harder session next,modified,q_plan_mind,Easier. Seeing how many sessions are left made it feel doable.,True,English
+T0369,R09,Full Plan,3,3,13,Easy run,harder session next,modified,q_tracking,Just the time on my watch.,True,English
+T0370,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,modify_reason,Ran it at an easier pace because I was still sore.,True,English
+T0371,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,q_pacing,No.,False,English
+T0372,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True,English
+T0373,R09,Full Plan,3,4,14,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes. Looked ahead at the plan to sort out my schedule.,True,English
+T0374,R09,Full Plan,3,5,15,Long run,final session,modified,modify_reason,Split it into two shorter runs because of rain.,True,English
+T0375,R09,Full Plan,3,5,15,Long run,final session,modified,q_pacing,No,False,English
+T0376,R09,Full Plan,3,5,15,Long run,final session,modified,q_plan_mind,No,False,English
+T0377,R09,Full Plan,3,5,15,Long run,final session,modified,q_tracking,"Route, water, and what to eat before. Also checked how today fits with the rest of the week.",True,English
+T0378,R10,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,"yes, I pushed more since I figured I should use what I have today",True,English
+T0379,R10,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,"a bit harder near the end, no sense of how much is left in the plan",True,English
+T0380,R10,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,just the time on my watch. Had to find the message with today's session first,True,English
+T0381,R10,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,"no, just ran it",False,English
+T0382,R10,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,nothing in particular,False,English
+T0383,R10,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps. Checked the Messenger message again to confirm the details,True,English
+T0384,R10,Current Only,1,3,3,Easy run,harder session next,prescribed,q_pacing,"slightly, I didn't want to wreck my legs in case the next one is hard",True,English
+T0385,R10,Current Only,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,"a bit harder near the end, no sense of how much is left in the plan",True,English
+T0386,R10,Current Only,1,3,3,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details,True,English
+T0387,R10,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,not really. I only think about the session in front of me,True,English
+T0388,R10,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"easier, not knowing what's next meant I wasn't worrying about it",True,English
+T0389,R10,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part. Had to find the message with today's session first,True,English
+T0390,R10,Current Only,1,5,5,Long run,easy run next,modified,modify_reason,split it into two shorter runs because of rain,True,English
+T0391,R10,Current Only,1,5,5,Long run,easy run next,modified,q_pacing,"no, just ran it",False,English
+T0392,R10,Current Only,1,5,5,Long run,easy run next,modified,q_plan_mind,Neither,False,English
+T0393,R10,Current Only,1,5,5,Long run,easy run next,modified,q_tracking,total distance and not starting too fast. Checked the Messenger message again to confirm the details,True,English
+T0394,R10,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,"no, just ran it",False,English
+T0395,R10,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,"a bit harder near the end, no sense of how much is left in the plan",True,English
+T0396,R10,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,keeping my pace easy and not going too fast,True,English
+T0397,R10,Current Only,2,2,7,Interval run,easy run next,modified,modify_reason,did 2 fewer reps because my legs were dead,True,English
+T0398,R10,Current Only,2,2,7,Interval run,easy run next,modified,q_pacing,hard to say. I don't know what's next so I went by feel,True,English
+T0399,R10,Current Only,2,2,7,Interval run,easy run next,modified,q_plan_mind,Not really,False,English
+T0400,R10,Current Only,2,2,7,Interval run,easy run next,modified,q_tracking,fast pace targets and counting reps,True,English
+T0401,R10,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,"slightly, I didn't want to wreck my legs in case the next one is hard",True,English
+T0402,R10,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,harder. I kept wondering how long the sessions would get,True,English
+T0403,R10,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out. Checked the Messenger message again to confirm the details,True,English
+T0404,R10,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_pacing,"yes, I didn't know what was coming next so I kept some energy in reserve",True,English
+T0405,R10,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,harder. I wasn't expecting this tempo run today so I hadn't really prepared,True,English
+T0406,R10,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_tracking,holding the target pace for the middle part. Checked the Messenger message again to confirm the details,True,English
+T0407,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_other,ran with a friend for part of it,True,English
+T0408,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,Not really,False,English
+T0409,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,Nothing,False,English
+T0410,R10,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,"route, water, and what to eat before. Had to find the message with today's session first",True,English
+T0411,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_other,would like to know a bit earlier what the session is,True,English
+T0412,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,hard to say. I don't know what's next so I went by feel,True,English
+T0413,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,"harder, I didn't know if today was the toughest day of the week or not",True,English
+T0414,R10,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,which route to take and how long to be out,True,English
+T0415,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_other,good run overall,True,English
+T0416,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,not really. I only think about the session in front of me,True,English
+T0417,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,"slightly harder, the interval run felt tougher than what I had guessed was coming",True,English
+T0418,R10,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,fast pace targets and counting reps,True,English
+T0419,R10,Current Only,3,3,13,Easy run,harder session next,modified,modify_reason,"cut it 10 minutes short, ran out of time before work",True,English
+T0420,R10,Current Only,3,3,13,Easy run,harder session next,modified,q_pacing,not really. I only think about the session in front of me,True,English
+T0421,R10,Current Only,3,3,13,Easy run,harder session next,modified,q_plan_mind,"easier, I only had to think about today",True,English
+T0422,R10,Current Only,3,3,13,Easy run,harder session next,modified,q_tracking,keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details,True,English
+T0423,R10,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,No.,False,English
+T0424,R10,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,nothing in particular,False,English
+T0425,R10,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,"warm-up, tempo block length, and cooldown",True,English
+T0426,R10,Current Only,3,5,15,Long run,final session,prescribed,q_pacing,"no, I just focused on today since that's all I could see",True,English
+T0427,R10,Current Only,3,5,15,Long run,final session,prescribed,q_plan_mind,"easier, less to think about. I just open the message and go",True,English
+T0428,R10,Current Only,3,5,15,Long run,final session,prescribed,q_tracking,total distance and not starting too fast,True,English
+T0429,R11,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_pacing,A little. I kept something in the tank because the interval run is coming up.,True,English
+T0430,R11,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Harder. I kept thinking about the interval run coming up.,True,English
+T0431,R11,Full Plan,1,1,1,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast.,True,English
+T0432,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_other,Legs felt heavy from the start.,True,English
+T0433,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True,English
+T0434,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0435,R11,Full Plan,1,2,2,Interval run,easy run next,prescribed,q_tracking,"Number of reps, rest times, and my watch timer. Looked ahead at the plan to sort out my schedule.",True,English
+T0436,R11,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the tempo run was next so I held back a bit today.",True,English
+T0437,R11,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0438,R11,Full Plan,1,3,3,Easy run,harder session next,prescribed,q_tracking,Just the time on my watch. Also checked how today fits with the rest of the week.,True,English
+T0439,R11,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True,English
+T0440,R11,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,"Harder at the start, looking at the whole week felt like a lot.",True,English
+T0441,R11,Full Plan,1,4,4,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes.,True,English
+T0442,R11,Full Plan,2,1,6,Easy run,harder session next,modified,modify_reason,Walked parts because my calf felt tight.,True,English
+T0443,R11,Full Plan,2,1,6,Easy run,harder session next,modified,q_pacing,Somewhat. Knowing the interval run is next made me careful with my pace.,True,English
+T0444,R11,Full Plan,2,1,6,Easy run,harder session next,modified,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0445,R11,Full Plan,2,1,6,Easy run,harder session next,modified,q_tracking,Just the time on my watch. Also checked how today fits with the rest of the week.,True,English
+T0446,R11,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_pacing,"Yes, the next one is only an easy run so I felt fine pushing today.",True,English
+T0447,R11,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_plan_mind,Nothing,False,English
+T0448,R11,Full Plan,2,2,7,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries. Looked ahead at the plan to sort out my schedule.",True,English
+T0449,R11,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the tempo run is next made me careful with my pace.,True,English
+T0450,R11,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0451,R11,Full Plan,2,3,8,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out. Looked ahead at the plan to sort out my schedule.,True,English
+T0452,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,modify_reason,"Shortened the tempo block, wasn't feeling well.",True,English
+T0453,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_other,Watch lost GPS for a few minutes.,True,English
+T0454,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_pacing,Somewhat. Knowing the long run is next made me careful with my pace.,True,English
+T0455,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_plan_mind,"Easier, it helped to see the end of the week coming.",True,English
+T0456,R11,Full Plan,2,4,9,Tempo run,harder session next,modified,q_tracking,Checking my pace every few minutes. Looked ahead at the plan to sort out my schedule.,True,English
+T0457,R11,Full Plan,2,5,10,Long run,easy run next,modified,modify_reason,Split it into two shorter runs because of rain.,True,English
+T0458,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_other,Good run overall.,True,English
+T0459,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_pacing,"Yes, I knew an easier day was next so I didn't hold much back.",True,English
+T0460,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_plan_mind,"Harder at the start, looking at the whole week felt like a lot.",True,English
+T0461,R11,Full Plan,2,5,10,Long run,easy run next,modified,q_tracking,"Route, water, and what to eat before. Also checked how today fits with the rest of the week.",True,English
+T0462,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_other,I like being able to plan my week around the sessions.,True,English
+T0463,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_pacing,"Yes, I saw the interval run was next so I held back a bit today.",True,English
+T0464,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True,English
+T0465,R11,Full Plan,3,1,11,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Looked ahead at the plan to sort out my schedule.",True,English
+T0466,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_other,Watch lost GPS for a few minutes.,True,English
+T0467,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_pacing,"A bit. I could recover on the easy run next, so I worked harder.",True,English
+T0468,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,"Easier, I could tick off another one on the plan.",True,English
+T0469,R11,Full Plan,3,2,12,Interval run,easy run next,prescribed,q_tracking,Fast pace targets and counting reps. Also checked how today fits with the rest of the week.,True,English
+T0470,R11,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_pacing,Somewhat. Knowing the tempo run is next made me careful with my pace.,True,English
+T0471,R11,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0472,R11,Full Plan,3,3,13,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast.,True,English
+T0473,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_other,Legs felt heavy from the start.,True,English
+T0474,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_pacing,"Yes, I eased off near the end to save my legs for the long run.",True,English
+T0475,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0476,R11,Full Plan,3,4,14,Tempo run,harder session next,prescribed,q_tracking,Holding the target pace for the middle part.,True,English
+T0477,R11,Full Plan,3,5,15,Long run,final session,prescribed,q_pacing,"Yes, it was the last session on the plan so I gave it everything.",True,English
+T0478,R11,Full Plan,3,5,15,Long run,final session,prescribed,q_plan_mind,A bit harder. I kept going over the rest of this week's sessions in my head.,True,English
+T0479,R11,Full Plan,3,5,15,Long run,final session,prescribed,q_tracking,Total distance and not starting too fast. Also checked how today fits with the rest of the week.,True,English
+T0480,R12,Current Only,1,1,1,Easy run,harder session next,prescribed,q_pacing,"No, just ran it",False,English
+T0481,R12,Current Only,1,1,1,Easy run,harder session next,prescribed,q_plan_mind,Neither,False,English
+T0482,R12,Current Only,1,1,1,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went.",True,English
+T0483,R12,Current Only,1,2,2,Interval run,easy run next,prescribed,q_pacing,Not really,False,English
+T0484,R12,Current Only,1,2,2,Interval run,easy run next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0485,R12,Current Only,1,2,2,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True,English
+T0486,R12,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_pacing,A bit. Not knowing the next session made me hold back on the last part.,True,English
+T0487,R12,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_plan_mind,Not really,False,English
+T0488,R12,Current Only,1,4,4,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown.",True,English
+T0489,R12,Current Only,1,5,5,Long run,easy run next,prescribed,q_pacing,No,False,English
+T0490,R12,Current Only,1,5,5,Long run,easy run next,prescribed,q_plan_mind,Nothing in particular,False,English
+T0491,R12,Current Only,1,5,5,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop.,True,English
+T0492,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_other,Curious what the rest of the plan looks like.,True,English
+T0493,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_pacing,Not really. I only think about the session in front of me.,True,English
+T0494,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0495,R12,Current Only,2,1,6,Easy run,harder session next,prescribed,q_tracking,Which route to take and how long to be out.,True,English
+T0496,R12,Current Only,2,3,8,Easy run,harder session next,prescribed,q_pacing,Not today,False,English
+T0497,R12,Current Only,2,3,8,Easy run,harder session next,prescribed,q_plan_mind,Nothing,False,English
+T0498,R12,Current Only,2,3,8,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Had to find the message with today's session first.",True,English
+T0499,R12,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_pacing,Not really,False,English
+T0500,R12,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_plan_mind,"A bit harder near the end, no sense of how much is left in the plan.",True,English
+T0501,R12,Current Only,2,4,9,Tempo run,harder session next,prescribed,q_tracking,Checking my pace every few minutes. Had to find the message with today's session first.,True,English
+T0502,R12,Current Only,2,5,10,Long run,easy run next,prescribed,q_pacing,"No, just ran it",False,English
+T0503,R12,Current Only,2,5,10,Long run,easy run next,prescribed,q_plan_mind,"Slightly harder, the long run felt tougher than what I had guessed was coming.",True,English
+T0504,R12,Current Only,2,5,10,Long run,easy run next,prescribed,q_tracking,Planned a loop with a water stop. Checked the Messenger message again to confirm the details.,True,English
+T0505,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_other,Legs felt heavy from the start.,True,English
+T0506,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_pacing,"No, just ran it",False,English
+T0507,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True,English
+T0508,R12,Current Only,3,1,11,Easy run,harder session next,prescribed,q_tracking,Keeping my pace easy and not going too fast. Checked the Messenger message again to confirm the details.,True,English
+T0509,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_other,Watch lost GPS for a few minutes.,True,English
+T0510,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_pacing,No.,False,English
+T0511,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_plan_mind,Harder. I wasn't expecting this interval run today so I hadn't really prepared.,True,English
+T0512,R12,Current Only,3,2,12,Interval run,easy run next,prescribed,q_tracking,"Warm-up length, then reps and recoveries.",True,English
+T0513,R12,Current Only,3,3,13,Easy run,harder session next,prescribed,q_pacing,Not really,False,English
+T0514,R12,Current Only,3,3,13,Easy run,harder session next,prescribed,q_plan_mind,"Easier, not knowing what's next meant I wasn't worrying about it.",True,English
+T0515,R12,Current Only,3,3,13,Easy run,harder session next,prescribed,q_tracking,"Nothing much, just laced up and went. Checked the Messenger message again to confirm the details.",True,English
+T0516,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_other,Really humid today.,True,English
+T0517,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_pacing,"Slightly, I didn't want to wreck my legs in case the next one is hard.",True,English
+T0518,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_plan_mind,"Easier, less to think about. I just open the message and go.",True,English
+T0519,R12,Current Only,3,4,14,Tempo run,harder session next,prescribed,q_tracking,"Warm-up, tempo block length, and cooldown.",True,English
