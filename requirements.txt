@@ -3,6 +3,7 @@ numpy
 scipy
 statsmodels
 matplotlib
-# optional, only for LLM_PROVIDER = "anthropic" or "openai"
+seaborn
+# optional, only for LLM_PROVIDER = "anthropic" or "openai" (not used in this study: see Section 4b)
 # anthropic
 # openai
