@@ -1,0 +1,8 @@
+# Real participant data must never be pushed (consent form, RA 10173).
+data/*
+!data/SYNTHETIC_*.csv
+processed/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
