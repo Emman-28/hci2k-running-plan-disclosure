@@ -6,3 +6,6 @@ processed/
 # Jupyter / Python
 .ipynb_checkpoints/
 __pycache__/
+
+# Interview transcripts and findings (participant quotes)
+interviews/
